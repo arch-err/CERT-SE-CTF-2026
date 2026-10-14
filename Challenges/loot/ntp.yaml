@@ -1,0 +1,1186 @@
+packets:
+- frame_raw:
+  - 5254005b83dd525400a86680080045b8004c7a57400040110d01c0a87a30b97dbe3ada12007b0038b2da2300000000000000000000000000000000000000000000000000000000000000000000000000000006ab8ba03d0677fb
+  - 0
+  - 90
+  - 0
+  - 1
+  - 0
+  frame:
+    frame.section_number: '1'
+    frame.interface_id: '0'
+    frame.interface_id_tree:
+      frame.interface_name: virbr0
+    frame.encap_type: '1'
+    frame.time: '2026-09-25T11:35:43.830166149Z'
+    frame.time_utc: '2026-09-25T11:35:43.830166149Z'
+    frame.time_epoch: '2026-09-25T11:35:43.830166149Z'
+    frame.offset_shift: '0.000000000'
+    frame.time_delta: '0.582297821'
+    frame.time_relative: '204.527528534'
+    frame.number: '18948'
+    frame.len: '90'
+    frame.cap_len: '90'
+    frame.marked: '0'
+    frame.ignored: '0'
+    frame.protocols: eth:ethertype:ip:udp:ntp
+    frame.encoding: '0'
+  eth_raw:
+  - 5254005b83dd525400a866800800
+  - 0
+  - 14
+  - 0
+  - 1
+  - 0
+  eth:
+    eth.dst_raw:
+    - 5254005b83dd
+    - 0
+    - 6
+    - 0
+    - 29
+    - 0
+    eth.dst: 52:54:00:5b:83:dd
+    eth.dst_tree:
+      eth.dst_resolved_raw:
+      - 5254005b83dd
+      - 0
+      - 6
+      - 0
+      - 26
+      - 0
+      eth.dst_resolved: 52:54:00:5b:83:dd
+      eth.dst.oui_raw:
+      - '525400'
+      - 0
+      - 3
+      - 0
+      - 6
+      - 0
+      eth.dst.oui: '5395456'
+      eth.dst.lg_raw:
+      - '1'
+      - 0
+      - 3
+      - 131072
+      - 2
+      - 0
+      eth.dst.lg: '1'
+      eth.dst.ig_raw:
+      - '0'
+      - 0
+      - 3
+      - 65536
+      - 2
+      - 0
+      eth.dst.ig: '0'
+      eth.addr_raw:
+      - 5254005b83dd
+      - 0
+      - 6
+      - 0
+      - 29
+      - 0
+      eth.addr: 52:54:00:5b:83:dd
+      eth.addr_resolved_raw:
+      - 5254005b83dd
+      - 0
+      - 6
+      - 0
+      - 26
+      - 0
+      eth.addr_resolved: 52:54:00:5b:83:dd
+      eth.addr.oui_raw:
+      - '525400'
+      - 0
+      - 3
+      - 0
+      - 6
+      - 0
+      eth.addr.oui: '5395456'
+      eth.lg_raw:
+      - '1'
+      - 0
+      - 3
+      - 131072
+      - 2
+      - 0
+      eth.lg: '1'
+      eth.ig_raw:
+      - '0'
+      - 0
+      - 3
+      - 65536
+      - 2
+      - 0
+      eth.ig: '0'
+    eth.src_raw:
+    - 525400a86680
+    - 6
+    - 6
+    - 0
+    - 29
+    - 0
+    eth.src: 52:54:00:a8:66:80
+    eth.src_tree:
+      eth.src_resolved_raw:
+      - 525400a86680
+      - 6
+      - 6
+      - 0
+      - 26
+      - 0
+      eth.src_resolved: 52:54:00:a8:66:80
+      eth.src.oui_raw:
+      - '525400'
+      - 6
+      - 3
+      - 0
+      - 6
+      - 0
+      eth.src.oui: '5395456'
+      eth.src.lg_raw:
+      - '1'
+      - 6
+      - 3
+      - 131072
+      - 2
+      - 0
+      eth.src.lg: '1'
+      eth.src.ig_raw:
+      - '0'
+      - 6
+      - 3
+      - 65536
+      - 2
+      - 0
+      eth.src.ig: '0'
+      eth.addr_raw:
+      - 525400a86680
+      - 6
+      - 6
+      - 0
+      - 29
+      - 0
+      eth.addr: 52:54:00:a8:66:80
+      eth.addr_resolved_raw:
+      - 525400a86680
+      - 6
+      - 6
+      - 0
+      - 26
+      - 0
+      eth.addr_resolved: 52:54:00:a8:66:80
+      eth.addr.oui_raw:
+      - '525400'
+      - 6
+      - 3
+      - 0
+      - 6
+      - 0
+      eth.addr.oui: '5395456'
+      eth.lg_raw:
+      - '1'
+      - 6
+      - 3
+      - 131072
+      - 2
+      - 0
+      eth.lg: '1'
+      eth.ig_raw:
+      - '0'
+      - 6
+      - 3
+      - 65536
+      - 2
+      - 0
+      eth.ig: '0'
+    eth.type_raw:
+    - 0800
+    - 12
+    - 2
+    - 0
+    - 5
+    - 0
+    eth.type: '0x0800'
+    eth.stream: '1'
+  ip_raw:
+  - 45b8004c7a57400040110d01c0a87a30b97dbe3a
+  - 14
+  - 20
+  - 0
+  - 1
+  - 0
+  ip:
+    ip.version_raw:
+    - '45'
+    - 14
+    - 1
+    - 0
+    - 4
+    - 0
+    ip.version: '4'
+    ip.hdr_len_raw:
+    - '45'
+    - 14
+    - 1
+    - 0
+    - 4
+    - 0
+    ip.hdr_len: '20'
+    ip.dsfield_raw:
+    - b8
+    - 15
+    - 1
+    - 0
+    - 4
+    - 0
+    ip.dsfield: '0xb8'
+    ip.dsfield_tree:
+      ip.dsfield.dscp_raw:
+      - 2E
+      - 15
+      - 1
+      - 252
+      - 4
+      - 0
+      ip.dsfield.dscp: '46'
+      ip.dsfield.ecn_raw:
+      - '0'
+      - 15
+      - 1
+      - 3
+      - 4
+      - 0
+      ip.dsfield.ecn: '0'
+    ip.len_raw:
+    - 004c
+    - 16
+    - 2
+    - 0
+    - 5
+    - 0
+    ip.len: '76'
+    ip.id_raw:
+    - 7a57
+    - 18
+    - 2
+    - 0
+    - 5
+    - 0
+    ip.id: '0x7a57'
+    ip.flags_raw:
+    - '2'
+    - 20
+    - 1
+    - 224
+    - 4
+    - 0
+    ip.flags: '0x02'
+    ip.flags_tree:
+      ip.flags.rb_raw:
+      - '0'
+      - 20
+      - 1
+      - 128
+      - 2
+      - 0
+      ip.flags.rb: '0'
+      ip.flags.df_raw:
+      - '1'
+      - 20
+      - 1
+      - 64
+      - 2
+      - 0
+      ip.flags.df: '1'
+      ip.flags.mf_raw:
+      - '0'
+      - 20
+      - 1
+      - 32
+      - 2
+      - 0
+      ip.flags.mf: '0'
+    ip.frag_offset_raw:
+    - '0'
+    - 20
+    - 2
+    - 8191
+    - 5
+    - 0
+    ip.frag_offset: '0'
+    ip.ttl_raw:
+    - '40'
+    - 22
+    - 1
+    - 0
+    - 4
+    - 0
+    ip.ttl: '64'
+    ip.proto_raw:
+    - '11'
+    - 23
+    - 1
+    - 0
+    - 4
+    - 0
+    ip.proto: '17'
+    ip.checksum_raw:
+    - 0d01
+    - 24
+    - 2
+    - 0
+    - 5
+    - 0
+    ip.checksum: '0x0d01'
+    ip.checksum.status: '2'
+    ip.src_raw:
+    - c0a87a30
+    - 26
+    - 4
+    - 0
+    - 32
+    - 0
+    ip.src: 192.168.122.48
+    ip.addr_raw:
+    - - c0a87a30
+      - 26
+      - 4
+      - 0
+      - 32
+      - 0
+    - - b97dbe3a
+      - 30
+      - 4
+      - 0
+      - 32
+      - 0
+    ip.addr:
+    - 192.168.122.48
+    - 185.125.190.58
+    ip.src_host_raw:
+    - c0a87a30
+    - 26
+    - 4
+    - 0
+    - 26
+    - 0
+    ip.src_host: 192.168.122.48
+    ip.host_raw:
+    - - c0a87a30
+      - 26
+      - 4
+      - 0
+      - 26
+      - 0
+    - - b97dbe3a
+      - 30
+      - 4
+      - 0
+      - 26
+      - 0
+    ip.host:
+    - 192.168.122.48
+    - 185.125.190.58
+    ip.dst_raw:
+    - b97dbe3a
+    - 30
+    - 4
+    - 0
+    - 32
+    - 0
+    ip.dst: 185.125.190.58
+    ip.dst_host_raw:
+    - b97dbe3a
+    - 30
+    - 4
+    - 0
+    - 26
+    - 0
+    ip.dst_host: 185.125.190.58
+    ip.stream: '22'
+  udp_raw:
+  - da12007b0038b2da
+  - 34
+  - 8
+  - 0
+  - 1
+  - 0
+  udp:
+    udp.srcport_raw:
+    - da12
+    - 34
+    - 2
+    - 0
+    - 5
+    - 0
+    udp.srcport: '55826'
+    udp.dstport_raw:
+    - 007b
+    - 36
+    - 2
+    - 0
+    - 5
+    - 0
+    udp.dstport: '123'
+    udp.port_raw:
+    - - da12
+      - 34
+      - 2
+      - 0
+      - 5
+      - 0
+    - - 007b
+      - 36
+      - 2
+      - 0
+      - 5
+      - 0
+    udp.port:
+    - '55826'
+    - '123'
+    udp.length_raw:
+    - 0038
+    - 38
+    - 2
+    - 0
+    - 5
+    - 0
+    udp.length: '56'
+    udp.checksum_raw:
+    - b2da
+    - 40
+    - 2
+    - 0
+    - 5
+    - 0
+    udp.checksum: '0xb2da'
+    udp.checksum.status: '2'
+    udp.stream: '100'
+    udp.stream.pnum: '1'
+    Timestamps:
+      udp.time_relative: '0.000000000'
+      udp.time_delta: '0.000000000'
+    udp.payload_raw:
+    - 2300000000000000000000000000000000000000000000000000000000000000000000000000000006ab8ba03d0677fb
+    - 42
+    - 48
+    - 0
+    - 30
+    - 0
+    udp.payload: 23:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:06:ab:8b:a0:3d:06:77:fb
+  ntp_raw:
+  - 2300000000000000000000000000000000000000000000000000000000000000000000000000000006ab8ba03d0677fb
+  - 42
+  - 48
+  - 0
+  - 1
+  - 0
+  ntp:
+    ntp.flags_raw:
+    - '23'
+    - 42
+    - 1
+    - 0
+    - 4
+    - 0
+    ntp.flags: '0x23'
+    ntp.flags_tree:
+      ntp.flags.li_raw:
+      - '0'
+      - 42
+      - 1
+      - 192
+      - 4
+      - 0
+      ntp.flags.li: '0'
+      ntp.flags.vn_raw:
+      - '4'
+      - 42
+      - 1
+      - 56
+      - 4
+      - 0
+      ntp.flags.vn: '4'
+      ntp.flags.mode_raw:
+      - '3'
+      - 42
+      - 1
+      - 7
+      - 4
+      - 0
+      ntp.flags.mode: '3'
+    ntp.stratum_raw:
+    - '00'
+    - 43
+    - 1
+    - 0
+    - 4
+    - 0
+    ntp.stratum: '0'
+    ntp.ppoll_raw:
+    - '00'
+    - 44
+    - 1
+    - 0
+    - 12
+    - 0
+    ntp.ppoll: '0'
+    ntp.precision_raw:
+    - '00'
+    - 45
+    - 1
+    - 0
+    - 12
+    - 0
+    ntp.precision: '0'
+    ntp.rootdelay_raw:
+    - '00000000'
+    - 46
+    - 4
+    - 0
+    - 7
+    - 0
+    ntp.rootdelay: '0'
+    ntp.rootdispersion_raw:
+    - '00000000'
+    - 50
+    - 4
+    - 0
+    - 7
+    - 0
+    ntp.rootdispersion: '0'
+    ntp.refid_raw:
+    - '00000000'
+    - 54
+    - 4
+    - 0
+    - 30
+    - 0
+    ntp.refid: 00:00:00:00
+    ntp.reftime_raw:
+    - '0000000000000000'
+    - 58
+    - 8
+    - 0
+    - 24
+    - 0
+    ntp.reftime: '1970-01-01T00:00:00.000000000Z'
+    ntp.org_raw:
+    - '0000000000000000'
+    - 66
+    - 8
+    - 0
+    - 24
+    - 0
+    ntp.org: '1970-01-01T00:00:00.000000000Z'
+    ntp.rec_raw:
+    - '0000000000000000'
+    - 74
+    - 8
+    - 0
+    - 24
+    - 0
+    ntp.rec: '1970-01-01T00:00:00.000000000Z'
+    ntp.xmt_raw:
+    - 06ab8ba03d0677fb
+    - 82
+    - 8
+    - 0
+    - 24
+    - 0
+    ntp.xmt: '2039-08-25T11:23:12.238379954Z'
+- frame_raw:
+  - 525400a866805254005b83dd08004500004c2ab7400032116b59b97dbe3ac0a87a30007bda120038c66f240200e7000001aa0000000f1d586304ee60db0b3746ab5b06ab8ba03d0677fbee60db0fea3832d6ee60db0fea3a7769
+  - 0
+  - 90
+  - 0
+  - 1
+  - 0
+  frame:
+    frame.section_number: '1'
+    frame.interface_id: '0'
+    frame.interface_id_tree:
+      frame.interface_name: virbr0
+    frame.encap_type: '1'
+    frame.time: '2026-09-25T11:35:43.897913408Z'
+    frame.time_utc: '2026-09-25T11:35:43.897913408Z'
+    frame.time_epoch: '2026-09-25T11:35:43.897913408Z'
+    frame.offset_shift: '0.000000000'
+    frame.time_delta: '0.067747259'
+    frame.time_delta_displayed: '0.067747259'
+    frame.time_relative: '204.595275793'
+    frame.number: '18949'
+    frame.len: '90'
+    frame.cap_len: '90'
+    frame.marked: '0'
+    frame.ignored: '0'
+    frame.protocols: eth:ethertype:ip:udp:ntp
+    frame.encoding: '0'
+  eth_raw:
+  - 525400a866805254005b83dd0800
+  - 0
+  - 14
+  - 0
+  - 1
+  - 0
+  eth:
+    eth.dst_raw:
+    - 525400a86680
+    - 0
+    - 6
+    - 0
+    - 29
+    - 0
+    eth.dst: 52:54:00:a8:66:80
+    eth.dst_tree:
+      eth.dst_resolved_raw:
+      - 525400a86680
+      - 0
+      - 6
+      - 0
+      - 26
+      - 0
+      eth.dst_resolved: 52:54:00:a8:66:80
+      eth.dst.oui_raw:
+      - '525400'
+      - 0
+      - 3
+      - 0
+      - 6
+      - 0
+      eth.dst.oui: '5395456'
+      eth.dst.lg_raw:
+      - '1'
+      - 0
+      - 3
+      - 131072
+      - 2
+      - 0
+      eth.dst.lg: '1'
+      eth.dst.ig_raw:
+      - '0'
+      - 0
+      - 3
+      - 65536
+      - 2
+      - 0
+      eth.dst.ig: '0'
+      eth.addr_raw:
+      - 525400a86680
+      - 0
+      - 6
+      - 0
+      - 29
+      - 0
+      eth.addr: 52:54:00:a8:66:80
+      eth.addr_resolved_raw:
+      - 525400a86680
+      - 0
+      - 6
+      - 0
+      - 26
+      - 0
+      eth.addr_resolved: 52:54:00:a8:66:80
+      eth.addr.oui_raw:
+      - '525400'
+      - 0
+      - 3
+      - 0
+      - 6
+      - 0
+      eth.addr.oui: '5395456'
+      eth.lg_raw:
+      - '1'
+      - 0
+      - 3
+      - 131072
+      - 2
+      - 0
+      eth.lg: '1'
+      eth.ig_raw:
+      - '0'
+      - 0
+      - 3
+      - 65536
+      - 2
+      - 0
+      eth.ig: '0'
+    eth.src_raw:
+    - 5254005b83dd
+    - 6
+    - 6
+    - 0
+    - 29
+    - 0
+    eth.src: 52:54:00:5b:83:dd
+    eth.src_tree:
+      eth.src_resolved_raw:
+      - 5254005b83dd
+      - 6
+      - 6
+      - 0
+      - 26
+      - 0
+      eth.src_resolved: 52:54:00:5b:83:dd
+      eth.src.oui_raw:
+      - '525400'
+      - 6
+      - 3
+      - 0
+      - 6
+      - 0
+      eth.src.oui: '5395456'
+      eth.src.lg_raw:
+      - '1'
+      - 6
+      - 3
+      - 131072
+      - 2
+      - 0
+      eth.src.lg: '1'
+      eth.src.ig_raw:
+      - '0'
+      - 6
+      - 3
+      - 65536
+      - 2
+      - 0
+      eth.src.ig: '0'
+      eth.addr_raw:
+      - 5254005b83dd
+      - 6
+      - 6
+      - 0
+      - 29
+      - 0
+      eth.addr: 52:54:00:5b:83:dd
+      eth.addr_resolved_raw:
+      - 5254005b83dd
+      - 6
+      - 6
+      - 0
+      - 26
+      - 0
+      eth.addr_resolved: 52:54:00:5b:83:dd
+      eth.addr.oui_raw:
+      - '525400'
+      - 6
+      - 3
+      - 0
+      - 6
+      - 0
+      eth.addr.oui: '5395456'
+      eth.lg_raw:
+      - '1'
+      - 6
+      - 3
+      - 131072
+      - 2
+      - 0
+      eth.lg: '1'
+      eth.ig_raw:
+      - '0'
+      - 6
+      - 3
+      - 65536
+      - 2
+      - 0
+      eth.ig: '0'
+    eth.type_raw:
+    - 0800
+    - 12
+    - 2
+    - 0
+    - 5
+    - 0
+    eth.type: '0x0800'
+    eth.stream: '1'
+  ip_raw:
+  - 4500004c2ab7400032116b59b97dbe3ac0a87a30
+  - 14
+  - 20
+  - 0
+  - 1
+  - 0
+  ip:
+    ip.version_raw:
+    - '45'
+    - 14
+    - 1
+    - 0
+    - 4
+    - 0
+    ip.version: '4'
+    ip.hdr_len_raw:
+    - '45'
+    - 14
+    - 1
+    - 0
+    - 4
+    - 0
+    ip.hdr_len: '20'
+    ip.dsfield_raw:
+    - '00'
+    - 15
+    - 1
+    - 0
+    - 4
+    - 0
+    ip.dsfield: '0x00'
+    ip.dsfield_tree:
+      ip.dsfield.dscp_raw:
+      - '0'
+      - 15
+      - 1
+      - 252
+      - 4
+      - 0
+      ip.dsfield.dscp: '0'
+      ip.dsfield.ecn_raw:
+      - '0'
+      - 15
+      - 1
+      - 3
+      - 4
+      - 0
+      ip.dsfield.ecn: '0'
+    ip.len_raw:
+    - 004c
+    - 16
+    - 2
+    - 0
+    - 5
+    - 0
+    ip.len: '76'
+    ip.id_raw:
+    - 2ab7
+    - 18
+    - 2
+    - 0
+    - 5
+    - 0
+    ip.id: '0x2ab7'
+    ip.flags_raw:
+    - '2'
+    - 20
+    - 1
+    - 224
+    - 4
+    - 0
+    ip.flags: '0x02'
+    ip.flags_tree:
+      ip.flags.rb_raw:
+      - '0'
+      - 20
+      - 1
+      - 128
+      - 2
+      - 0
+      ip.flags.rb: '0'
+      ip.flags.df_raw:
+      - '1'
+      - 20
+      - 1
+      - 64
+      - 2
+      - 0
+      ip.flags.df: '1'
+      ip.flags.mf_raw:
+      - '0'
+      - 20
+      - 1
+      - 32
+      - 2
+      - 0
+      ip.flags.mf: '0'
+    ip.frag_offset_raw:
+    - '0'
+    - 20
+    - 2
+    - 8191
+    - 5
+    - 0
+    ip.frag_offset: '0'
+    ip.ttl_raw:
+    - '32'
+    - 22
+    - 1
+    - 0
+    - 4
+    - 0
+    ip.ttl: '50'
+    ip.proto_raw:
+    - '11'
+    - 23
+    - 1
+    - 0
+    - 4
+    - 0
+    ip.proto: '17'
+    ip.checksum_raw:
+    - 6b59
+    - 24
+    - 2
+    - 0
+    - 5
+    - 0
+    ip.checksum: '0x6b59'
+    ip.checksum.status: '2'
+    ip.src_raw:
+    - b97dbe3a
+    - 26
+    - 4
+    - 0
+    - 32
+    - 0
+    ip.src: 185.125.190.58
+    ip.addr_raw:
+    - - b97dbe3a
+      - 26
+      - 4
+      - 0
+      - 32
+      - 0
+    - - c0a87a30
+      - 30
+      - 4
+      - 0
+      - 32
+      - 0
+    ip.addr:
+    - 185.125.190.58
+    - 192.168.122.48
+    ip.src_host_raw:
+    - b97dbe3a
+    - 26
+    - 4
+    - 0
+    - 26
+    - 0
+    ip.src_host: 185.125.190.58
+    ip.host_raw:
+    - - b97dbe3a
+      - 26
+      - 4
+      - 0
+      - 26
+      - 0
+    - - c0a87a30
+      - 30
+      - 4
+      - 0
+      - 26
+      - 0
+    ip.host:
+    - 185.125.190.58
+    - 192.168.122.48
+    ip.dst_raw:
+    - c0a87a30
+    - 30
+    - 4
+    - 0
+    - 32
+    - 0
+    ip.dst: 192.168.122.48
+    ip.dst_host_raw:
+    - c0a87a30
+    - 30
+    - 4
+    - 0
+    - 26
+    - 0
+    ip.dst_host: 192.168.122.48
+    ip.stream: '22'
+  udp_raw:
+  - 007bda120038c66f
+  - 34
+  - 8
+  - 0
+  - 1
+  - 0
+  udp:
+    udp.srcport_raw:
+    - 007b
+    - 34
+    - 2
+    - 0
+    - 5
+    - 0
+    udp.srcport: '123'
+    udp.dstport_raw:
+    - da12
+    - 36
+    - 2
+    - 0
+    - 5
+    - 0
+    udp.dstport: '55826'
+    udp.port_raw:
+    - - 007b
+      - 34
+      - 2
+      - 0
+      - 5
+      - 0
+    - - da12
+      - 36
+      - 2
+      - 0
+      - 5
+      - 0
+    udp.port:
+    - '123'
+    - '55826'
+    udp.length_raw:
+    - 0038
+    - 38
+    - 2
+    - 0
+    - 5
+    - 0
+    udp.length: '56'
+    udp.checksum_raw:
+    - c66f
+    - 40
+    - 2
+    - 0
+    - 5
+    - 0
+    udp.checksum: '0xc66f'
+    udp.checksum.status: '2'
+    udp.stream: '100'
+    udp.stream.pnum: '2'
+    Timestamps:
+      udp.time_relative: '0.067747259'
+      udp.time_delta: '0.067747259'
+    udp.payload_raw:
+    - 240200e7000001aa0000000f1d586304ee60db0b3746ab5b06ab8ba03d0677fbee60db0fea3832d6ee60db0fea3a7769
+    - 42
+    - 48
+    - 0
+    - 30
+    - 0
+    udp.payload: 24:02:00:e7:00:00:01:aa:00:00:00:0f:1d:58:63:04:ee:60:db:0b:37:46:ab:5b:06:ab:8b:a0:3d:06:77:fb:ee:60:db:0f:ea:38:32:d6:ee:60:db:0f:ea:3a:77:69
+  ntp_raw:
+  - 240200e7000001aa0000000f1d586304ee60db0b3746ab5b06ab8ba03d0677fbee60db0fea3832d6ee60db0fea3a7769
+  - 42
+  - 48
+  - 0
+  - 1
+  - 0
+  ntp:
+    ntp.flags_raw:
+    - '24'
+    - 42
+    - 1
+    - 0
+    - 4
+    - 0
+    ntp.flags: '0x24'
+    ntp.flags_tree:
+      ntp.flags.li_raw:
+      - '0'
+      - 42
+      - 1
+      - 192
+      - 4
+      - 0
+      ntp.flags.li: '0'
+      ntp.flags.vn_raw:
+      - '4'
+      - 42
+      - 1
+      - 56
+      - 4
+      - 0
+      ntp.flags.vn: '4'
+      ntp.flags.mode_raw:
+      - '4'
+      - 42
+      - 1
+      - 7
+      - 4
+      - 0
+      ntp.flags.mode: '4'
+    ntp.stratum_raw:
+    - '02'
+    - 43
+    - 1
+    - 0
+    - 4
+    - 0
+    ntp.stratum: '2'
+    ntp.ppoll_raw:
+    - '00'
+    - 44
+    - 1
+    - 0
+    - 12
+    - 0
+    ntp.ppoll: '0'
+    ntp.precision_raw:
+    - e7
+    - 45
+    - 1
+    - 0
+    - 12
+    - 0
+    ntp.precision: '-25'
+    ntp.rootdelay_raw:
+    - 000001aa
+    - 46
+    - 4
+    - 0
+    - 7
+    - 0
+    ntp.rootdelay: '426'
+    ntp.rootdispersion_raw:
+    - 0000000f
+    - 50
+    - 4
+    - 0
+    - 7
+    - 0
+    ntp.rootdispersion: '15'
+    ntp.refid_raw:
+    - 1d586304
+    - 54
+    - 4
+    - 0
+    - 30
+    - 0
+    ntp.refid: 1d:58:63:04
+    ntp.reftime_raw:
+    - ee60db0b3746ab5b
+    - 58
+    - 8
+    - 0
+    - 24
+    - 0
+    ntp.reftime: '2026-09-25T11:35:39.215922078Z'
+    ntp.org_raw:
+    - 06ab8ba03d0677fb
+    - 66
+    - 8
+    - 0
+    - 24
+    - 0
+    ntp.org: '2039-08-25T11:23:12.238379954Z'
+    ntp.rec_raw:
+    - ee60db0fea3832d6
+    - 74
+    - 8
+    - 0
+    - 24
+    - 0
+    ntp.rec: '2026-09-25T11:35:43.914920022Z'
+    ntp.xmt_raw:
+    - ee60db0fea3a7769
+    - 82
+    - 8
+    - 0
+    - 24
+    - 0
+    ntp.xmt: '2026-09-25T11:35:43.914954627Z'

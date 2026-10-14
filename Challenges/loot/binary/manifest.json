@@ -1,0 +1,149 @@
+{
+  "source": "../CERT-SE_CTF_2026.repaired.pcapng",
+  "objects": [
+    {
+      "export_protocol": "certificates",
+      "export_filename": "00f24b6d17f9d9ad7cb1c9fea78782699f(1).cer",
+      "file_media_type": "application/octet-stream",
+      "file": "certificates/00f24b6d17f9d9ad7cb1c9fea78782699f(1).cer",
+      "bytes": 1528,
+      "sha256": "072639d0b140d5bffae16ad9c3f6cc6086040621f51ee61a6d46a8915c07cf76"
+    },
+    {
+      "export_protocol": "certificates",
+      "export_filename": "00f24b6d17f9d9ad7cb1c9fea78782699f(2).cer",
+      "file_media_type": "application/octet-stream",
+      "file": "certificates/00f24b6d17f9d9ad7cb1c9fea78782699f(2).cer",
+      "bytes": 1528,
+      "sha256": "072639d0b140d5bffae16ad9c3f6cc6086040621f51ee61a6d46a8915c07cf76"
+    },
+    {
+      "export_protocol": "certificates",
+      "export_filename": "00f24b6d17f9d9ad7cb1c9fea78782699f(3).cer",
+      "file_media_type": "application/octet-stream",
+      "file": "certificates/00f24b6d17f9d9ad7cb1c9fea78782699f(3).cer",
+      "bytes": 1528,
+      "sha256": "072639d0b140d5bffae16ad9c3f6cc6086040621f51ee61a6d46a8915c07cf76"
+    },
+    {
+      "export_protocol": "certificates",
+      "export_filename": "00f24b6d17f9d9ad7cb1c9fea78782699f.cer",
+      "file_media_type": "application/octet-stream",
+      "file": "certificates/00f24b6d17f9d9ad7cb1c9fea78782699f.cer",
+      "bytes": 1528,
+      "sha256": "072639d0b140d5bffae16ad9c3f6cc6086040621f51ee61a6d46a8915c07cf76"
+    },
+    {
+      "export_protocol": "certificates",
+      "export_filename": "0568aada4a4bb3f4ee7cb23d1964e0a56c8d.cer",
+      "file_media_type": "application/octet-stream",
+      "file": "certificates/0568aada4a4bb3f4ee7cb23d1964e0a56c8d.cer",
+      "bytes": 1317,
+      "sha256": "98aa1fd3b94070c588fb599e9faf566cd87be0ad477cc6f8dd1748815a3f38bb"
+    },
+    {
+      "export_protocol": "certificates",
+      "export_filename": "064aa8cdf12af6e58f579442fc6ad7d85496.cer",
+      "file_media_type": "application/octet-stream",
+      "file": "certificates/064aa8cdf12af6e58f579442fc6ad7d85496.cer",
+      "bytes": 1358,
+      "sha256": "20ac0771db2a5cf91727314a7c9198a462cadd085b2d741e9f8623d0d6d5c07f"
+    },
+    {
+      "export_protocol": "certificates",
+      "export_filename": "06b0b27473ace7377b8e7afa510f4b0bd65d(1).cer",
+      "file_media_type": "application/octet-stream",
+      "file": "certificates/06b0b27473ace7377b8e7afa510f4b0bd65d(1).cer",
+      "bytes": 1384,
+      "sha256": "cd4ef0f46dd2652f40284772771fb991312500a74bc11589231d59b8d85fda8b"
+    },
+    {
+      "export_protocol": "certificates",
+      "export_filename": "06b0b27473ace7377b8e7afa510f4b0bd65d.cer",
+      "file_media_type": "application/octet-stream",
+      "file": "certificates/06b0b27473ace7377b8e7afa510f4b0bd65d.cer",
+      "bytes": 1384,
+      "sha256": "cd4ef0f46dd2652f40284772771fb991312500a74bc11589231d59b8d85fda8b"
+    },
+    {
+      "export_protocol": "certificates",
+      "export_filename": "4ebd24947e24d394802d84a52fd5b319(1).cer",
+      "file_media_type": "application/octet-stream",
+      "file": "certificates/4ebd24947e24d394802d84a52fd5b319(1).cer",
+      "bytes": 1246,
+      "sha256": "238b85a0099c65b970477d5724f1a1d475ce5058cffe4efa8733899bdb863c47"
+    },
+    {
+      "export_protocol": "certificates",
+      "export_filename": "4ebd24947e24d394802d84a52fd5b319(2).cer",
+      "file_media_type": "application/octet-stream",
+      "file": "certificates/4ebd24947e24d394802d84a52fd5b319(2).cer",
+      "bytes": 1246,
+      "sha256": "238b85a0099c65b970477d5724f1a1d475ce5058cffe4efa8733899bdb863c47"
+    },
+    {
+      "export_protocol": "certificates",
+      "export_filename": "4ebd24947e24d394802d84a52fd5b319(3).cer",
+      "file_media_type": "application/octet-stream",
+      "file": "certificates/4ebd24947e24d394802d84a52fd5b319(3).cer",
+      "bytes": 1246,
+      "sha256": "238b85a0099c65b970477d5724f1a1d475ce5058cffe4efa8733899bdb863c47"
+    },
+    {
+      "export_protocol": "certificates",
+      "export_filename": "4ebd24947e24d394802d84a52fd5b319.cer",
+      "file_media_type": "application/octet-stream",
+      "file": "certificates/4ebd24947e24d394802d84a52fd5b319.cer",
+      "bytes": 1246,
+      "sha256": "238b85a0099c65b970477d5724f1a1d475ce5058cffe4efa8733899bdb863c47"
+    },
+    {
+      "export_protocol": "http",
+      "export_filename": "%2f",
+      "file_media_type": "application/octet-stream",
+      "frame": 5657,
+      "tcp_stream": 327,
+      "url": "http://ocsp.digicert.com/",
+      "http_content_type": "application/ocsp-request",
+      "file": "ocsp-request.der",
+      "bytes": 83,
+      "sha256": "0698995af8458180d7849379f5a864bffe38126e5f18f3bacdd8215d0772c3f4"
+    },
+    {
+      "export_protocol": "http",
+      "export_filename": "%2f(1)",
+      "file_media_type": "application/octet-stream",
+      "frame": 5708,
+      "tcp_stream": 327,
+      "url": "http://ocsp.digicert.com/",
+      "http_content_type": "application/ocsp-response",
+      "file": "ocsp-response.der",
+      "bytes": 471,
+      "sha256": "4c2b050ca182c3b3a337173c97391aa2f3038c9cd688ad34109ef098c4fa6f8f"
+    },
+    {
+      "export_protocol": "http",
+      "export_filename": "Om_oss.odt",
+      "file_media_type": "application/vnd.oasis.opendocument.text",
+      "frame": 18978,
+      "tcp_stream": 1119,
+      "url": "http://192.168.122.1/Om_oss.odt",
+      "http_content_type": "application/vnd.oasis.opendocument.text",
+      "file": "Om_oss.odt",
+      "bytes": 50010,
+      "sha256": "72f53030b8bce6de4a8ff6034a87c5f6a2315df9518731560fcf66f7a261c44e"
+    },
+    {
+      "export_protocol": "http",
+      "export_filename": "white_wallpaper.png",
+      "file_media_type": "image/png",
+      "frame": 19003,
+      "tcp_stream": 1120,
+      "url": "http://192.168.122.1/white_wallpaper.png",
+      "http_content_type": "image/png",
+      "file": "white_wallpaper.png",
+      "bytes": 42397,
+      "sha256": "d974f34160f16f98a06eb35f585192dc9a0262129202fee1c90f310017d130fb"
+    }
+  ]
+}

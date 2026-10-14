@@ -1,0 +1,4387 @@
+[
+  {
+    "sha256": "c96cf8ce66abd86013abd1e0052663681b6d57a5b0920274cea85b3060759aaa",
+    "representative": "plaintext/404(10).html",
+    "copies": 765,
+    "bytes": 330,
+    "title": "Error response",
+    "comments": [],
+    "hidden_elements": [],
+    "forms": [],
+    "scripts": [],
+    "external_hostnames": []
+  },
+  {
+    "sha256": "8dfa819b5bd07e1dee3e11b6d9c4a364eb35cace0fc565a6f2a15360601539d9",
+    "representative": "plaintext/404(1).html",
+    "copies": 26,
+    "bytes": 59411,
+    "title": "Single Reporting Platform (SRP) | ENISA",
+    "comments": [],
+    "hidden_elements": [
+      {
+        "tag": "div",
+        "attributes": {
+          "id": "blocktabs-related_content_taxonomy-4",
+          "aria-labelledby": "ui-id-2",
+          "role": "tabpanel",
+          "class": "ui-tabs-panel ui-corner-bottom ui-widget-content",
+          "style": "display: none;",
+          "aria-hidden": "true"
+        }
+      }
+    ],
+    "forms": [
+      {
+        "data-block": "nav_additional",
+        "action": "/search",
+        "method": "get",
+        "id": "search-block-form",
+        "accept-charset": "UTF-8"
+      }
+    ],
+    "scripts": [
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 111
+      },
+      {
+        "src": null,
+        "type": "application/json",
+        "id": null,
+        "inline_bytes": 118
+      },
+      {
+        "src": null,
+        "type": "application/json",
+        "id": null,
+        "inline_bytes": 48
+      },
+      {
+        "src": null,
+        "type": "application/json",
+        "id": null,
+        "inline_bytes": 497
+      },
+      {
+        "src": "Single%20Reporting%20Platform%20(SRP)%20_%20ENISA_files/js_bMULC5iZ9MYlA7770dKKvYcNreecoGfFEQrmejCLKQ0_62Re.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Single%20Reporting%20Platform%20(SRP)%20_%20ENISA_files/page_62Re.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Single%20Reporting%20Platform%20(SRP)%20_%20ENISA_files/js_MUOdv_adFcXO9kdfvxALQ34JMg6h577Xke4nGrg8zFc_62Re.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Single%20Reporting%20Platform%20(SRP)%20_%20ENISA_files/accordion.frontend.min_62Re.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Single%20Reporting%20Platform%20(SRP)%20_%20ENISA_files/js_RLX_ZxjfwCmQlGSmHHnUEPhGq6TZCtqlkAlhXQtfwb0_62Re.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Single%20Reporting%20Platform%20(SRP)%20_%20ENISA_files/load_62Re.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Single%20Reporting%20Platform%20(SRP)%20_%20ENISA_files/js_Pj1gX-gXRHcdCBDI1-WO0jTP3o3GK7ZZPT2TZokpFjY_62Re.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Single%20Reporting%20Platform%20(SRP)%20_%20ENISA_files/application_62Re.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Single%20Reporting%20Platform%20(SRP)%20_%20ENISA_files/ea_62Re.js",
+        "type": "text/javascript",
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Single%20Reporting%20Platform%20(SRP)%20_%20ENISA_files/webtools.cck_62Re.js",
+        "type": "text/javascript",
+        "id": null,
+        "inline_bytes": 0
+      }
+    ],
+    "external_hostnames": [
+      "agencies-network.europa.eu",
+      "eur-lex.europa.eu",
+      "portal.cra-srp.enisa.europa.eu",
+      "www.enisa.europa.eu",
+      "www.facebook.com",
+      "www.linkedin.com",
+      "www.youtube.com",
+      "x.com"
+    ]
+  },
+  {
+    "sha256": "edc8240a7033b7684c56984c48617895eb3241b02e6ce5422e787844bb9c9a65",
+    "representative": "plaintext/admin.html",
+    "copies": 22,
+    "bytes": 349,
+    "title": "Error response",
+    "comments": [],
+    "hidden_elements": [],
+    "forms": [],
+    "scripts": [],
+    "external_hostnames": []
+  },
+  {
+    "sha256": "a6ed1716e931a51abddf5800aa9d87b96fbb84dfd801ad7e20fa2961ed469c9b",
+    "representative": "plaintext/archives(1).html",
+    "copies": 16,
+    "bytes": 250960,
+    "title": "Nationellt cybersäkerhetscenter – Wikipedia",
+    "comments": [
+      " CentralNotice ",
+      " \nNewPP limit report\nParsed by mw‐web.eqiad.canary‐c9c769b7b‐j26vv\nCached time: 20260910052307\nCache expiry: 2592000\nReduced expiry: false\nComplications: [use‐parsoid]\nCPU time usage: 0.124 seconds\nReal time usage: 0.141 seconds\nPreprocessor visited node count: 1777/1000000\nRevision size: 3335/2097152 bytes\nPost‐expand include size: 17450/2097152 bytes\nTemplate argument size: 7688/2097152 bytes\nHighest expansion depth: 15/100\nExpensive parser function count: 0/500\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 717/5000000 bytes\nLua time usage: 0.007/10.000 seconds\nLua memory usage: 1044769/52428800 bytes\nNumber of Wikibase entities loaded: 0/500\n",
+      "\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   75.072      1 -total\n 71.33%   53.548      3 Mall:Webbref\n 59.15%   44.407      3 Mall:Cite_web\n 54.86%   41.187      3 Mall:Citation/core\n 33.14%   24.876      8 Mall:Date\n  3.77%    2.830     16 Mall:Void\n  3.34%    2.509      5 Mall:Link\n",
+      " Render ID b46a4055-acd7-11f1-b5ac-a1cf35eba39d ",
+      " Saved in parser cache with key svwiki:parsoid-pcache:8673371:|#|:idhash:useParsoid=1 and timestamp 20260910052307 and revision id 59555028. Rendering was triggered because: page_view\n ",
+      " Parsoid 0.24.0.0-alpha21 ",
+      "\nPost‐processing cache key svwiki:postproc‐parsoid‐pcache:8673371:|#|:idhash:injectTOC=0!postproc=1!skin=vector‐2022!useParsoid=1, generated at 20260910052307\n"
+    ],
+    "hidden_elements": [
+      {
+        "tag": "input",
+        "attributes": {
+          "type": "hidden",
+          "name": "title",
+          "value": "Special:Sök"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwWA"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwaQ"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwdg"
+        }
+      },
+      {
+        "tag": "li",
+        "attributes": {
+          "style": "display: none;"
+        }
+      },
+      {
+        "tag": "input",
+        "attributes": {
+          "type": "hidden",
+          "name": "title",
+          "value": "Special:Sök"
+        }
+      }
+    ],
+    "forms": [
+      {
+        "action": "/w/index.php",
+        "id": "searchform",
+        "class": "cdx-search-input cdx-search-input--has-end-button"
+      },
+      {},
+      {},
+      {},
+      {
+        "action": "/w/index.php",
+        "id": "vector-sticky-search-form",
+        "class": "cdx-search-input cdx-search-input--has-end-button"
+      }
+    ],
+    "scripts": [
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 5023
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 214
+      },
+      {
+        "src": "Nationellt%20cybers%C3%A4kerhetscenter%20%E2%80%93%20Wikipedia_files/load_z0pz.es",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 803
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 1177
+      },
+      {
+        "src": null,
+        "type": "application/ld+json",
+        "id": null,
+        "inline_bytes": 682
+      }
+    ],
+    "external_hostnames": [
+      "commons.wikimedia.org",
+      "creativecommons.org",
+      "developer.wikimedia.org",
+      "donate.wikimedia.org",
+      "foundation.wikimedia.org",
+      "meta.wikimedia.org",
+      "slumpartikel.toolforge.org",
+      "stats.wikimedia.org",
+      "sv.wikipedia.org",
+      "web.archive.org",
+      "www.mediawiki.org",
+      "www.ncsc.se",
+      "www.regeringen.se",
+      "www.riksdagen.se",
+      "www.wikidata.org",
+      "www.wikimedia.org"
+    ]
+  },
+  {
+    "sha256": "c32cc5e7c9ac5c24e9a96f34c013e37c9f49b8f5ab6fe7fa606df86f441901a7",
+    "representative": "plaintext/admin(7).html",
+    "copies": 15,
+    "bytes": 72603,
+    "title": "NCSC",
+    "comments": [
+      " Styles ",
+      " Javascript "
+    ],
+    "hidden_elements": [
+      {
+        "tag": "button",
+        "attributes": {
+          "class": "rsbtn_tooltoggle",
+          "data-rsshortcut": "menu",
+          "data-rslang": "title/arialabel:menu",
+          "title": "webReaders meny",
+          "aria-label": "webReaders meny",
+          "aria-controls": "rs_player_toolpanel",
+          "aria-expanded": "false",
+          "data-rs-tooltip": ".",
+          "data-rs-direction": "u",
+          "style": "display: none;",
+          "data-rs-container": "rs_player",
+          "data-rsevent-id": "rs_370223"
+        }
+      },
+      {
+        "tag": "div",
+        "attributes": {
+          "id": "rs_player_toolpanel",
+          "style": "display: none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "id": "ui-id-1",
+          "tabindex": "0",
+          "class": "ui-menu ui-widget ui-widget-content ui-autocomplete ui-front",
+          "style": "display: none;",
+          "unselectable": "on"
+        }
+      }
+    ],
+    "forms": [
+      {
+        "action": "/sv/soksida/",
+        "role": "search",
+        "method": "Get",
+        "class": "grid-x"
+      },
+      {
+        "action": "/sv/soksida/",
+        "role": "search",
+        "method": "Get",
+        "class": "grid-x"
+      }
+    ],
+    "scripts": [
+      {
+        "src": "NCSC_files/container_9XTe3f78_VNph.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "NCSC_files/klaroConfig_VNph.js",
+        "type": "application/javascript",
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "NCSC_files/klaro-0.7.18_VNph.js",
+        "type": "application/javascript",
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "NCSC_files/webReader_VNph.js",
+        "type": "text/javascript",
+        "id": "rs_req_Init",
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 369
+      },
+      {
+        "src": "NCSC_files/configs_VNph.php",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "NCSC_files/app.min_VNph.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "NCSC_files/Hyphenopoly_Loader_VNph.js",
+        "type": "text/javascript",
+        "id": null,
+        "inline_bytes": 0
+      }
+    ],
+    "external_hostnames": [
+      "app-eu.readspeaker.com",
+      "www.linkedin.com",
+      "www.ncsc.se"
+    ]
+  },
+  {
+    "sha256": "baaf63cea52ac7f7742ca80aa770aa774c5170660aa13a2bb91f8e2129cec215",
+    "representative": "plaintext/500(4).html",
+    "copies": 14,
+    "bytes": 42126,
+    "title": "FIRST - Improving Security Together",
+    "comments": [
+      "<input id=\"sig-list\" type=\"search\" data-datalist-api=\"https://api2.first.org/data/v1/sig.json\" data-datalist-renderer=\"sigList\" placeholder=\"List current SIGs\" />"
+    ],
+    "hidden_elements": [
+      {
+        "tag": "iframe",
+        "attributes": {
+          "allowfullscreen": "",
+          "style": "display: none;",
+          "id": "lightbox-frame",
+          "data-testid": "lightbox-frame"
+        }
+      },
+      {
+        "tag": "iframe",
+        "attributes": {
+          "title": "FreshworksWidget",
+          "id": "freshworks-frame",
+          "data-html2canvas-ignore": "true",
+          "style": "display: none;"
+        }
+      }
+    ],
+    "forms": [
+      {
+        "id": "sig-widget",
+        "class": "s-form",
+        "action": "#"
+      }
+    ],
+    "scripts": [
+      {
+        "src": "FIRST%20-%20Improving%20Security%20Together_files/web_UtFk.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "FIRST%20-%20Improving%20Security%20Together_files/web_UtFk.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "FIRST%20-%20Improving%20Security%20Together_files/s_UtFk.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 178
+      },
+      {
+        "src": "FIRST%20-%20Improving%20Security%20Together_files/bootstrap_UtFk.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "FIRST%20-%20Improving%20Security%20Together_files/s-form_UtFk.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      }
+    ],
+    "external_hostnames": [
+      "bsky.app",
+      "github.com",
+      "infosec.exchange",
+      "portal.first.org",
+      "twitter.com",
+      "vulnopticon.org",
+      "www.facebook.com",
+      "www.first.org",
+      "www.linkedin.com",
+      "www.youtube.com"
+    ]
+  },
+  {
+    "sha256": "37d6a69bf7edbdf8cc4588324ed1a00c19713eccdcb582326083f8ee3e9a790e",
+    "representative": "plaintext/404(13).html",
+    "copies": 13,
+    "bytes": 67692,
+    "title": "MCFFS 2026:1 föreskrifter om anmälan och identifiering av väsentliga och viktiga verksamhetsutövare",
+    "comments": [
+      " Styles ",
+      " Javascript ",
+      " Render sub navigation "
+    ],
+    "hidden_elements": [
+      {
+        "tag": "button",
+        "attributes": {
+          "class": "rsbtn_tooltoggle",
+          "data-rsshortcut": "menu",
+          "data-rslang": "title/arialabel:menu",
+          "title": "webReaders meny",
+          "aria-label": "webReaders meny",
+          "aria-controls": "rs_player_toolpanel",
+          "aria-expanded": "false",
+          "data-rs-tooltip": ".",
+          "data-rs-direction": "u",
+          "style": "display: none;",
+          "data-rs-container": "rs_player",
+          "data-rsevent-id": "rs_931651"
+        }
+      },
+      {
+        "tag": "div",
+        "attributes": {
+          "id": "rs_player_toolpanel",
+          "style": "display: none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "id": "ui-id-1",
+          "tabindex": "0",
+          "class": "ui-menu ui-widget ui-widget-content ui-autocomplete ui-front",
+          "style": "display: none;",
+          "unselectable": "on"
+        }
+      }
+    ],
+    "forms": [
+      {
+        "action": "/sv/soksida/",
+        "role": "search",
+        "method": "Get",
+        "class": "grid-x"
+      },
+      {
+        "action": "/sv/soksida/",
+        "role": "search",
+        "method": "Get",
+        "class": "grid-x"
+      }
+    ],
+    "scripts": [
+      {
+        "src": "MCFFS%202026_1%20f%C3%B6reskrifter%20om%20anm%C3%A4lan%20och%20identifiering%20av%20v%C3%A4sentliga%20och%20viktiga%20verksamhetsut%C3%B6vare_files/container_9XTe3f78_Dg-I.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "MCFFS%202026_1%20f%C3%B6reskrifter%20om%20anm%C3%A4lan%20och%20identifiering%20av%20v%C3%A4sentliga%20och%20viktiga%20verksamhetsut%C3%B6vare_files/klaroConfig_Dg-I.js",
+        "type": "application/javascript",
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "MCFFS%202026_1%20f%C3%B6reskrifter%20om%20anm%C3%A4lan%20och%20identifiering%20av%20v%C3%A4sentliga%20och%20viktiga%20verksamhetsut%C3%B6vare_files/klaro-0.7.18_Dg-I.js",
+        "type": "application/javascript",
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "MCFFS%202026_1%20f%C3%B6reskrifter%20om%20anm%C3%A4lan%20och%20identifiering%20av%20v%C3%A4sentliga%20och%20viktiga%20verksamhetsut%C3%B6vare_files/webReader_Dg-I.js",
+        "type": "text/javascript",
+        "id": "rs_req_Init",
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 369
+      },
+      {
+        "src": "MCFFS%202026_1%20f%C3%B6reskrifter%20om%20anm%C3%A4lan%20och%20identifiering%20av%20v%C3%A4sentliga%20och%20viktiga%20verksamhetsut%C3%B6vare_files/configs_Dg-I.php",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "MCFFS%202026_1%20f%C3%B6reskrifter%20om%20anm%C3%A4lan%20och%20identifiering%20av%20v%C3%A4sentliga%20och%20viktiga%20verksamhetsut%C3%B6vare_files/app.min_Dg-I.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "MCFFS%202026_1%20f%C3%B6reskrifter%20om%20anm%C3%A4lan%20och%20identifiering%20av%20v%C3%A4sentliga%20och%20viktiga%20verksamhetsut%C3%B6vare_files/Hyphenopoly_Loader_Dg-I.js",
+        "type": "text/javascript",
+        "id": null,
+        "inline_bytes": 0
+      }
+    ],
+    "external_hostnames": [
+      "app-eu.readspeaker.com",
+      "www.linkedin.com",
+      "www.ncsc.se",
+      "www.riksdagen.se"
+    ]
+  },
+  {
+    "sha256": "1bc4d3b94838e3b277d3c7c8f95cdd0af0bb406dd22be502efcf5fb19ed52711",
+    "representative": "plaintext/community(4).html",
+    "copies": 13,
+    "bytes": 310941,
+    "title": "Försvarsdepartementet – Wikipedia",
+    "comments": [
+      " CentralNotice ",
+      " \nNewPP limit report\nParsed by mw‐web.eqiad.main‐f9854c69d‐gd779\nCached time: 20260918063749\nCache expiry: 2592000\nReduced expiry: false\nComplications: [show‐toc, use‐parsoid]\nCPU time usage: 0.705 seconds\nReal time usage: 0.763 seconds\nPreprocessor visited node count: 4990/1000000\nRevision size: 4205/2097152 bytes\nPost‐expand include size: 88631/2097152 bytes\nTemplate argument size: 110301/2097152 bytes\nHighest expansion depth: 14/100\nExpensive parser function count: 0/500\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 8541/5000000 bytes\nLua time usage: 0.004/10.000 seconds\nLua memory usage: 666985/52428800 bytes\nNumber of Wikibase entities loaded: 0/500\n",
+      "\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  421.207      1 -total\n 24.33%  102.471      1 Mall:Myndighet\n 23.53%   99.102      1 Mall:Faktamall\n 15.56%   65.545      4 Mall:Navbox\n 11.26%   47.420      1 Mall:Webbref\n  9.73%   40.979      1 Mall:Cite_web\n  9.03%   38.018      1 Mall:Citation/core\n  6.83%   28.787      1 Mall:Svenska_försvarsdepartementet\n  6.65%   28.015      1 Mall:Sveriges_departement_och_statsråd\n  3.21%   13.510      1 Mall:Myndighet/Regleringsbrev\n",
+      " Render ID 7733236c-b32b-11f1-852b-ada889bf9ab3 ",
+      " Saved in parser cache with key svwiki:parsoid-pcache:53266:|#|:idhash:useParsoid=1 and timestamp 20260918063749 and revision id 58957805. Rendering was triggered because: page_view\n ",
+      " Parsoid 0.24.0.0-alpha23 ",
+      "\nPost‐processing cache key svwiki:postproc‐parsoid‐pcache:53266:|#|:idhash:injectTOC=0!postproc=1!skin=vector‐2022!useParsoid=1, generated at 20260918064135\n"
+    ],
+    "hidden_elements": [
+      {
+        "tag": "input",
+        "attributes": {
+          "type": "hidden",
+          "name": "title",
+          "value": "Special:Sök"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwgw"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "style": "height:2px;",
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "style": "height:2px;",
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "style": "height:2px",
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "style": "height:2px",
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "style": "height:2px;",
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "style": "height:2px",
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "li",
+        "attributes": {
+          "style": "display: none;"
+        }
+      },
+      {
+        "tag": "input",
+        "attributes": {
+          "type": "hidden",
+          "name": "title",
+          "value": "Special:Sök"
+        }
+      }
+    ],
+    "forms": [
+      {
+        "action": "/w/index.php",
+        "id": "searchform",
+        "class": "cdx-search-input cdx-search-input--has-end-button"
+      },
+      {},
+      {},
+      {},
+      {
+        "action": "/w/index.php",
+        "id": "vector-sticky-search-form",
+        "class": "cdx-search-input cdx-search-input--has-end-button"
+      }
+    ],
+    "scripts": [
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 5099
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 214
+      },
+      {
+        "src": "F%C3%B6rsvarsdepartementet%20%E2%80%93%20Wikipedia_files/load_mSfK.es",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 803
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 1374
+      },
+      {
+        "src": null,
+        "type": "application/ld+json",
+        "id": null,
+        "inline_bytes": 842
+      }
+    ],
+    "external_hostnames": [
+      "commons.wikimedia.org",
+      "creativecommons.org",
+      "da.wikipedia.org",
+      "developer.wikimedia.org",
+      "donate.wikimedia.org",
+      "en.wikipedia.org",
+      "es.wikipedia.org",
+      "fa.wikipedia.org",
+      "fi.wikipedia.org",
+      "foundation.wikimedia.org",
+      "fr.wikipedia.org",
+      "he.wikipedia.org",
+      "ja.wikipedia.org",
+      "lagen.nu",
+      "meta.wikimedia.org",
+      "no.wikipedia.org",
+      "pl.wikipedia.org",
+      "pt.wikipedia.org",
+      "ru.wikipedia.org",
+      "runeberg.org",
+      "slumpartikel.toolforge.org",
+      "stats.wikimedia.org",
+      "sv.wikipedia.org",
+      "thumb.wikimedia.org",
+      "uk.wikipedia.org",
+      "www.mediawiki.org",
+      "www.regeringen.se",
+      "www.riksdagen.se",
+      "www.wikidata.org",
+      "www.wikimedia.org",
+      "zh.wikipedia.org"
+    ]
+  },
+  {
+    "sha256": "48f1ee22aae0484e610712f9008b5234a69930dd81c5a35985bd85edf716c148",
+    "representative": "plaintext/administrator(7).html",
+    "copies": 12,
+    "bytes": 66647,
+    "title": "Om webbplatsen",
+    "comments": [
+      " Styles ",
+      " Javascript ",
+      " Render sub navigation "
+    ],
+    "hidden_elements": [
+      {
+        "tag": "button",
+        "attributes": {
+          "class": "rsbtn_tooltoggle",
+          "data-rsshortcut": "menu",
+          "data-rslang": "title/arialabel:menu",
+          "title": "webReaders meny",
+          "aria-label": "webReaders meny",
+          "aria-controls": "rs_player_toolpanel",
+          "aria-expanded": "false",
+          "data-rs-tooltip": ".",
+          "data-rs-direction": "u",
+          "style": "display: none;",
+          "data-rs-container": "rs_player",
+          "data-rsevent-id": "rs_123778"
+        }
+      },
+      {
+        "tag": "div",
+        "attributes": {
+          "id": "rs_player_toolpanel",
+          "style": "display: none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "id": "ui-id-1",
+          "tabindex": "0",
+          "class": "ui-menu ui-widget ui-widget-content ui-autocomplete ui-front",
+          "style": "display: none;",
+          "unselectable": "on"
+        }
+      }
+    ],
+    "forms": [
+      {
+        "action": "/sv/soksida/",
+        "role": "search",
+        "method": "Get",
+        "class": "grid-x"
+      },
+      {
+        "action": "/sv/soksida/",
+        "role": "search",
+        "method": "Get",
+        "class": "grid-x"
+      }
+    ],
+    "scripts": [
+      {
+        "src": "Om%20webbplatsen_files/container_9XTe3f78_Rz2t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Om%20webbplatsen_files/klaroConfig_Rz2t.js",
+        "type": "application/javascript",
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Om%20webbplatsen_files/klaro-0.7.18_Rz2t.js",
+        "type": "application/javascript",
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Om%20webbplatsen_files/webReader_Rz2t.js",
+        "type": "text/javascript",
+        "id": "rs_req_Init",
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 369
+      },
+      {
+        "src": "Om%20webbplatsen_files/configs_Rz2t.php",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Om%20webbplatsen_files/app.min_Rz2t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Om%20webbplatsen_files/Hyphenopoly_Loader_Rz2t.js",
+        "type": "text/javascript",
+        "id": null,
+        "inline_bytes": 0
+      }
+    ],
+    "external_hostnames": [
+      "app-eu.readspeaker.com",
+      "www.linkedin.com",
+      "www.ncsc.se"
+    ]
+  },
+  {
+    "sha256": "2fd1098d8a800b08264f70f740f6f0e1b10420cf978af3f8748856b4b7efff65",
+    "representative": "plaintext/administrator.html",
+    "copies": 12,
+    "bytes": 70833,
+    "title": "Om FRA - FRA",
+    "comments": [
+      " HTML ",
+      " top-menu_script ",
+      " Skript ",
+      " get-copyright ",
+      " Skript ",
+      " Skript ",
+      " HTML 1 ",
+      " innehall ",
+      " Mittenspalt ",
+      " Rubrik ",
+      " Text ",
+      " Bild ",
+      " Innehåll ",
+      " HTML ",
+      " Bild ",
+      " Text ",
+      " Kopia (2) av Text ",
+      " Kopia (1) av Text ",
+      " linkedin ",
+      " twitter ",
+      " instagram ",
+      " youtube ",
+      " Bild ",
+      " Text ",
+      " linkedin ",
+      " twitter ",
+      " instagram ",
+      " Bild ",
+      " Text ",
+      " linkedin ",
+      " twitter ",
+      " instagram ",
+      " youtube "
+    ],
+    "hidden_elements": [
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier2 1a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier2 2a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier3 2a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier3 2a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier3 2a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier4 2a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier2 3a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier2 4a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier3 4a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier3 4a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier2 5a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier3 5a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier3 5a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier3 5a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier2 6a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier2 7a hidden",
+          "style": "display:none;"
+        }
+      }
+    ],
+    "forms": [],
+    "scripts": [
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 96
+      },
+      {
+        "src": "Om%20FRA%20-%20FRA_files/docready_YmGw.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Om%20FRA%20-%20FRA_files/jquery_YmGw.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Om%20FRA%20-%20FRA_files/sv-template-asset_YmGw.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 388
+      },
+      {
+        "src": "Om%20FRA%20-%20FRA_files/AppRegistry_YmGw.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 787
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 703
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 521
+      },
+      {
+        "src": "Om%20FRA%20-%20FRA_files/utils_YmGw.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Om%20FRA%20-%20FRA_files/portlets_YmGw.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Om%20FRA%20-%20FRA_files/envision_YmGw.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      }
+    ],
+    "external_hostnames": [
+      "fra.se",
+      "instagram.com",
+      "se.linkedin.com",
+      "twitter.com",
+      "www.youtube.com",
+      "x.com"
+    ]
+  },
+  {
+    "sha256": "1d1f6476a7270d82f9c6ecf76ae16bb843f8d29ed518163ecee17107a0cf899e",
+    "representative": "plaintext/api.html",
+    "copies": 12,
+    "bytes": 15731,
+    "title": "CERT-SE – The national CSIRT of Sweden - CERT-SE",
+    "comments": [
+      "<div class=\"page-size\"><span class=\"page-size-item\"></span></div>",
+      "<input type=\"search\" class=\"input-search input-search-header\" placeholder=\"Sök inom CERT-SE\">",
+      "\n\t\t<h4>Cybersäkerhetsrådgivningen</h4>\n\t<p>Har du frågor om rapporteringsplikt enligt cybersäkerhetslagen, NIS2 eller beredskapsförordningen? Kontakta <a href=\"https://www.mcf.se/sv/verktyg--tjanster/cybersakerhetsradgivning/\">Cybersäkerhetsrådgivningen vid Myndigheten för civilt försvar</a>.</p> "
+    ],
+    "hidden_elements": [],
+    "forms": [],
+    "scripts": [],
+    "external_hostnames": [
+      "cert.se",
+      "certforum.se",
+      "csirtsnetwork.eu",
+      "cyberportal.mcf.se",
+      "egc-group.org",
+      "ncsc.se",
+      "tf-csirt.org",
+      "www.cert.se",
+      "www.first.org",
+      "www.ncsc.se",
+      "www.trusted-introducer.org"
+    ]
+  },
+  {
+    "sha256": "c67ba80bb247d13a6a98fb039c1ba626dd58fa5aea3c2b8b5af2c757fab982e9",
+    "representative": "plaintext/archives(2).html",
+    "copies": 12,
+    "bytes": 18300,
+    "title": "GitLab rättar kritiska sårbarheter - CERT-SE",
+    "comments": [
+      "<div class=\"page-size\"><span class=\"page-size-item\"></span></div>",
+      "<input type=\"search\" class=\"input-search input-search-header\" placeholder=\"Sök inom CERT-SE\">",
+      "\n\t\t<h4>Cybersäkerhetsrådgivningen</h4>\n\t<p>Har du frågor om rapporteringsplikt enligt cybersäkerhetslagen, NIS2 eller beredskapsförordningen? Kontakta <a href=\"https://www.mcf.se/sv/verktyg--tjanster/cybersakerhetsradgivning/\">Cybersäkerhetsrådgivningen vid Myndigheten för civilt försvar</a>.</p> "
+    ],
+    "hidden_elements": [],
+    "forms": [],
+    "scripts": [],
+    "external_hostnames": [
+      "cert.se",
+      "docs.gitlab.com",
+      "gitlab.com",
+      "ncsc.se",
+      "watchtowr.com",
+      "www.cert.se",
+      "www.cisa.gov",
+      "www.first.org",
+      "www.trusted-introducer.org"
+    ]
+  },
+  {
+    "sha256": "1b52f7903982c15d0d07369cd30158ea19219b75d31e8b6d1dbfdf7bb6dd4689",
+    "representative": "plaintext/admin(3).html",
+    "copies": 11,
+    "bytes": 94894,
+    "title": "FRA - FRA",
+    "comments": [
+      " HTML ",
+      " top-menu_script ",
+      " Skript ",
+      " Image Carouselle ",
+      " HTML ",
+      " innehall ",
+      " Mittenspalt ",
+      " Text ",
+      " mainEntriesScript ",
+      " Aktuellt ",
+      " newslist ",
+      " Jobbba på FRA ",
+      " imageMasonry ",
+      " Personas ",
+      " Bild ",
+      " Text ",
+      " Kopia (2) av Text ",
+      " Kopia (1) av Text ",
+      " linkedin ",
+      " twitter ",
+      " instagram ",
+      " youtube ",
+      " Bild ",
+      " Text ",
+      " linkedin ",
+      " twitter ",
+      " instagram ",
+      " Bild ",
+      " Text ",
+      " linkedin ",
+      " twitter ",
+      " instagram ",
+      " youtube "
+    ],
+    "hidden_elements": [
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier2 1a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier2 2a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier3 2a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier3 2a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier3 2a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier4 2a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier2 3a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier2 4a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier3 4a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier3 4a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier2 5a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier3 5a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier3 5a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier3 5a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier2 6a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "class": "tier2 7a hidden",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "div",
+        "attributes": {
+          "role": "complementary",
+          "aria-label": "jobba-pa-fra",
+          "class": "sv-vertical sv-layout ielayoutfix sv-template-layout",
+          "style": "background-color:#ffffff;display:none;",
+          "id": "svid10_55af049f184e92956c42e1c"
+        }
+      }
+    ],
+    "forms": [],
+    "scripts": [
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 96
+      },
+      {
+        "src": "FRA%20-%20FRA_files/docready_TFBB.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "FRA%20-%20FRA_files/jquery_TFBB.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "FRA%20-%20FRA_files/sv-template-asset_TFBB.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 388
+      },
+      {
+        "src": "FRA%20-%20FRA_files/AppRegistry_TFBB.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 787
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 699
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 2974
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 134
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 161
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 1442
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 251
+      },
+      {
+        "src": "FRA%20-%20FRA_files/webapp-assets_002_TFBB.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 321
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 180
+      },
+      {
+        "src": "FRA%20-%20FRA_files/utils_TFBB.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "FRA%20-%20FRA_files/portlets_TFBB.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "FRA%20-%20FRA_files/envision_TFBB.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "FRA%20-%20FRA_files/sv-template-asset_002_TFBB.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "FRA%20-%20FRA_files/webapp-assets_002_TFBB.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "FRA%20-%20FRA_files/webapp-assets_TFBB.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "FRA%20-%20FRA_files/webapp_sdk-min_TFBB.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      }
+    ],
+    "external_hostnames": [
+      "fra.se",
+      "instagram.com",
+      "se.linkedin.com",
+      "twitter.com",
+      "www.fra.se",
+      "www.youtube.com",
+      "x.com"
+    ]
+  },
+  {
+    "sha256": "eaf3e4c38ed8c1454c63bbe65705ce11bad210059b8a7df14c18fef782462f1b",
+    "representative": "plaintext/debug(10).html",
+    "copies": 11,
+    "bytes": 78077,
+    "title": "Cybersäkerhet",
+    "comments": [
+      " Styles ",
+      " Javascript ",
+      " Render sub navigation "
+    ],
+    "hidden_elements": [
+      {
+        "tag": "button",
+        "attributes": {
+          "class": "rsbtn_tooltoggle",
+          "data-rsshortcut": "menu",
+          "data-rslang": "title/arialabel:menu",
+          "title": "webReaders meny",
+          "aria-label": "webReaders meny",
+          "aria-controls": "rs_player_toolpanel",
+          "aria-expanded": "false",
+          "data-rs-tooltip": ".",
+          "data-rs-direction": "u",
+          "style": "display: none;",
+          "data-rs-container": "rs_player",
+          "data-rsevent-id": "rs_755400"
+        }
+      },
+      {
+        "tag": "div",
+        "attributes": {
+          "id": "rs_player_toolpanel",
+          "style": "display: none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "id": "ui-id-1",
+          "tabindex": "0",
+          "class": "ui-menu ui-widget ui-widget-content ui-autocomplete ui-front",
+          "style": "display: none;",
+          "unselectable": "on"
+        }
+      }
+    ],
+    "forms": [
+      {
+        "action": "/sv/soksida/",
+        "role": "search",
+        "method": "Get",
+        "class": "grid-x"
+      },
+      {
+        "action": "/sv/soksida/",
+        "role": "search",
+        "method": "Get",
+        "class": "grid-x"
+      }
+    ],
+    "scripts": [
+      {
+        "src": "Cybers%C3%A4kerhet_files/container_9XTe3f78_9DlG.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Cybers%C3%A4kerhet_files/klaroConfig_9DlG.js",
+        "type": "application/javascript",
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Cybers%C3%A4kerhet_files/klaro-0.7.18_9DlG.js",
+        "type": "application/javascript",
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Cybers%C3%A4kerhet_files/webReader_9DlG.js",
+        "type": "text/javascript",
+        "id": "rs_req_Init",
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 369
+      },
+      {
+        "src": "Cybers%C3%A4kerhet_files/configs_9DlG.php",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Cybers%C3%A4kerhet_files/app.min_9DlG.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Cybers%C3%A4kerhet_files/Hyphenopoly_Loader_9DlG.js",
+        "type": "text/javascript",
+        "id": null,
+        "inline_bytes": 0
+      }
+    ],
+    "external_hostnames": [
+      "app-eu.readspeaker.com",
+      "www.linkedin.com",
+      "www.ncsc.se"
+    ]
+  },
+  {
+    "sha256": "b950fee37adfc76940e40eee63307c64734ddafd6f89930677cec23dbfea60c7",
+    "representative": "plaintext/404(8).html",
+    "copies": 10,
+    "bytes": 470846,
+    "title": "Whitespace character - Wikipedia",
+    "comments": [
+      " CentralNotice ",
+      " \"Em (typography)\" and \"Template:Meetup/signup/doc\" link here ",
+      " \nNewPP limit report\nParsed by mw‐web.eqiad.main‐8ff988985‐2qptf\nCached time: 20260922114326\nCache expiry: 2592000\nCache expiry source: Module:Citation/CS1 (os.date(%Y))\nReduced expiry: false\nComplications: [vary‐revision‐sha1, show‐toc, use‐parsoid]\nCPU time usage: 2.780 seconds\nReal time usage: 3.473 seconds\nPreprocessor visited node count: 8104/1000000\nRevision size: 27465/2097152 bytes\nPost‐expand include size: 129015/2097152 bytes\nTemplate argument size: 11608/2097152 bytes\nHighest expansion depth: 24/100\nExpensive parser function count: 13/500\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 108877/5000000 bytes\nLua time usage: 0.615/10.000 seconds\nLua memory usage: 11753778/52428800 bytes\nNumber of Wikibase entities loaded: 1/500\n",
+      "\nTransclusion expansion time report (%,ms,calls,template)\n100.00% 2746.224      1 -total\n 15.37%  421.959      7 Template:Unichar\n 14.46%  397.157      7 Template:Unichar/main\n  9.24%  253.763      1 Template:Whitespace_(Unicode)\n  8.29%  227.797     20 Template:Cite_web\n  8.20%  225.155      7 Template:Unichar/name\n  6.99%  191.954      3 Template:Cite_IETF\n  6.60%  181.277      1 Template:Short_description\n  5.08%  139.390      2 Template:Navbar-collapsible\n  4.26%  117.095      1 Template:Citation_needed\n",
+      " Render ID d28e4c63-b67a-11f1-ae94-6155bf54bac3 ",
+      " Saved in parser cache with key enwiki:parsoid-pcache:2956700:|#|:idhash:useParsoid=1 and timestamp 20260922114326 and revision id 1371623031. Rendering was triggered because: page_view\n ",
+      " Parsoid 0.24.0.0-alpha23 ",
+      "\nPost‐processing cache key enwiki:postproc‐parsoid‐pcache:2956700:|#|:idhash:injectTOC=0!postproc=1!skin=vector‐2022!useParsoid=1!visibleLinks=single, generated at 20260922114326\n"
+    ],
+    "hidden_elements": [
+      {
+        "tag": "input",
+        "attributes": {
+          "type": "hidden",
+          "name": "title",
+          "value": "Special:Search"
+        }
+      },
+      {
+        "tag": "div",
+        "attributes": {
+          "class": "shortdescription nomobile noexcerpt noprint searchaux",
+          "style": "display:none",
+          "about": "#mwt1",
+          "typeof": "mw:Transclusion",
+          "id": "mwAg",
+          "data-mw": "{\"parts\":[{\"template\":{\"target\":{\"wt\":\"Short description\",\"href\":\"./Template:Short_description\"},\"params\":{\"1\":{\"wt\":\"Computer text file character representing blank space\"}},\"i\":0}}]}"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "000009",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "000010",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "000011",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "000012",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "000013",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "000032",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "000133",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "000160",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "005760",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "008192",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "008193",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "008194",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "008195",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "008196",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "008197",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "008198",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "008199",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "008200",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "008201",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "008202",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "008232",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "008233",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "008239",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "008287",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "012288",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "006158",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "008203",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "008204",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "008205",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "008288",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "data-sort-value": "065279",
+          "style": "display:none;"
+        }
+      },
+      {
+        "tag": "li",
+        "attributes": {
+          "style": "display: none;"
+        }
+      },
+      {
+        "tag": "input",
+        "attributes": {
+          "type": "hidden",
+          "name": "title",
+          "value": "Special:Search"
+        }
+      }
+    ],
+    "forms": [
+      {
+        "action": "/w/index.php",
+        "id": "searchform",
+        "class": "cdx-search-input cdx-search-input--has-end-button"
+      },
+      {},
+      {},
+      {},
+      {
+        "action": "/w/index.php",
+        "id": "vector-sticky-search-form",
+        "class": "cdx-search-input cdx-search-input--has-end-button"
+      }
+    ],
+    "scripts": [
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 4899
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 255
+      },
+      {
+        "src": "Whitespace%20character%20-%20Wikipedia_files/load_zIVg.es",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 803
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 1446
+      },
+      {
+        "src": null,
+        "type": "application/ld+json",
+        "id": null,
+        "inline_bytes": 671
+      }
+    ],
+    "external_hostnames": [
+      "cambridgez88.jira.com",
+      "commons.wikimedia.org",
+      "creativecommons.org",
+      "cs.wikipedia.org",
+      "de.wikipedia.org",
+      "developer.wikimedia.org",
+      "doi.org",
+      "donate.wikimedia.org",
+      "ecma-international.org",
+      "en.wikipedia.org",
+      "fa.wikipedia.org",
+      "fi.wikipedia.org",
+      "foundation.wikimedia.org",
+      "html.spec.whatwg.org",
+      "hu.wikipedia.org",
+      "icu-project.org",
+      "ja.wikipedia.org",
+      "ko.wikipedia.org",
+      "lccn.loc.gov",
+      "link.springer.com",
+      "meta.wikimedia.org",
+      "nl.wikipedia.org",
+      "pl.wikipedia.org",
+      "reference.wolfram.com",
+      "simple.wikipedia.org",
+      "stats.wikimedia.org",
+      "textfiles.meulie.net",
+      "thumb.wikimedia.org",
+      "tr.wikipedia.org",
+      "unicode.org",
+      "web.archive.org",
+      "wikimediafoundation.org",
+      "www.mediawiki.org",
+      "www.microsoft.com",
+      "www.open-std.org",
+      "www.rfc-editor.org",
+      "www.sr-ix.com",
+      "www.unicode.org",
+      "www.w3.org",
+      "www.wikidata.org",
+      "www.wikimedia.org",
+      "zh-yue.wikipedia.org",
+      "zh.wikipedia.org"
+    ]
+  },
+  {
+    "sha256": "47a0aa43ef11cee2b3be65526862a060110290836c79c2c4c940f62e051057cd",
+    "representative": "plaintext/500(2).html",
+    "copies": 10,
+    "bytes": 67150,
+    "title": "Home | ENISA",
+    "comments": [],
+    "hidden_elements": [
+      {
+        "tag": "div",
+        "attributes": {
+          "id": "views_slideshow_cycle_div_home_page_banner-block_1_2",
+          "class": "views_slideshow_cycle_slide views_slideshow_slide views-row-3 views_slideshow_cycle_hidden views-row-odd",
+          "style": "position: absolute; top: 0px; left: 0px; display: none; z-index: 3; opacity: 0;"
+        }
+      },
+      {
+        "tag": "div",
+        "attributes": {
+          "id": "views_slideshow_cycle_div_home_page_banner-block_1_3",
+          "class": "views_slideshow_cycle_slide views_slideshow_slide views-row-4 views_slideshow_cycle_hidden views-row-even",
+          "style": "position: absolute; top: 0px; left: 0px; display: none; z-index: 2; opacity: 0;"
+        }
+      },
+      {
+        "tag": "div",
+        "attributes": {
+          "id": "views_slideshow_cycle_div_home_page_banner-block_1_4",
+          "class": "views_slideshow_cycle_slide views_slideshow_slide views-row-5 views_slideshow_cycle_hidden views-row-odd",
+          "style": "position: absolute; top: 0px; left: 0px; display: none; z-index: 1; opacity: 0;"
+        }
+      }
+    ],
+    "forms": [
+      {
+        "data-block": "nav_additional",
+        "action": "/search",
+        "method": "get",
+        "id": "search-block-form",
+        "accept-charset": "UTF-8"
+      }
+    ],
+    "scripts": [
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 111
+      },
+      {
+        "src": null,
+        "type": "application/json",
+        "id": null,
+        "inline_bytes": 118
+      },
+      {
+        "src": null,
+        "type": "application/json",
+        "id": null,
+        "inline_bytes": 48
+      },
+      {
+        "src": null,
+        "type": "application/json",
+        "id": null,
+        "inline_bytes": 3036
+      },
+      {
+        "src": "Home%20_%20ENISA_files/js_Kay-7pHxLhpsWUC0hDkV2DwbjLR7p6f-dS9UoMOq_oA_70qX.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Home%20_%20ENISA_files/page_70qX.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Home%20_%20ENISA_files/js_jS65aBrvNU4rQMgAXnWGR4V8LqiUe28yAfRPi6vH6v8_70qX.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Home%20_%20ENISA_files/accordion.frontend.min_70qX.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Home%20_%20ENISA_files/js_RLX_ZxjfwCmQlGSmHHnUEPhGq6TZCtqlkAlhXQtfwb0_70qX.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Home%20_%20ENISA_files/load_70qX.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Home%20_%20ENISA_files/js_K0WCDdWAbe03hMIJCKwi7D0TZkfBZdZ2ck5L8186BWs_70qX.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Home%20_%20ENISA_files/application_70qX.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Home%20_%20ENISA_files/ea_70qX.js",
+        "type": "text/javascript",
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Home%20_%20ENISA_files/webtools.cck_70qX.js",
+        "type": "text/javascript",
+        "id": null,
+        "inline_bytes": 0
+      }
+    ],
+    "external_hostnames": [
+      "agencies-network.europa.eu",
+      "euvd.enisa.europa.eu",
+      "portal.cra-srp.enisa.europa.eu",
+      "www.enisa.europa.eu",
+      "www.facebook.com",
+      "www.linkedin.com",
+      "www.youtube.com",
+      "x.com"
+    ]
+  },
+  {
+    "sha256": "ea31ea3e74b4f1152d2c34884c6dd2d10e0285710670d2cc79fbaece153f37b8",
+    "representative": "plaintext/administrator(4).html",
+    "copies": 10,
+    "bytes": 55362,
+    "title": "The CRA Single Reporting Platform is launched | ENISA",
+    "comments": [],
+    "hidden_elements": [],
+    "forms": [
+      {
+        "data-block": "nav_additional",
+        "action": "/search",
+        "method": "get",
+        "id": "search-block-form",
+        "accept-charset": "UTF-8"
+      }
+    ],
+    "scripts": [
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 111
+      },
+      {
+        "src": null,
+        "type": "application/json",
+        "id": null,
+        "inline_bytes": 118
+      },
+      {
+        "src": null,
+        "type": "application/json",
+        "id": null,
+        "inline_bytes": 48
+      },
+      {
+        "src": null,
+        "type": "application/json",
+        "id": null,
+        "inline_bytes": 488
+      },
+      {
+        "src": "The%20CRA%20Single%20Reporting%20Platform%20is%20launched%20_%20ENISA_files/js_bMULC5iZ9MYlA7770dKKvYcNreecoGfFEQrmejCLKQ0_De02.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "The%20CRA%20Single%20Reporting%20Platform%20is%20launched%20_%20ENISA_files/page_De02.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "The%20CRA%20Single%20Reporting%20Platform%20is%20launched%20_%20ENISA_files/js_MUOdv_adFcXO9kdfvxALQ34JMg6h577Xke4nGrg8zFc_De02.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "The%20CRA%20Single%20Reporting%20Platform%20is%20launched%20_%20ENISA_files/accordion.frontend.min_De02.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "The%20CRA%20Single%20Reporting%20Platform%20is%20launched%20_%20ENISA_files/js_RLX_ZxjfwCmQlGSmHHnUEPhGq6TZCtqlkAlhXQtfwb0_De02.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "The%20CRA%20Single%20Reporting%20Platform%20is%20launched%20_%20ENISA_files/load_De02.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "The%20CRA%20Single%20Reporting%20Platform%20is%20launched%20_%20ENISA_files/js_Pj1gX-gXRHcdCBDI1-WO0jTP3o3GK7ZZPT2TZokpFjY_De02.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "The%20CRA%20Single%20Reporting%20Platform%20is%20launched%20_%20ENISA_files/application_De02.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "The%20CRA%20Single%20Reporting%20Platform%20is%20launched%20_%20ENISA_files/ea_De02.js",
+        "type": "text/javascript",
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "The%20CRA%20Single%20Reporting%20Platform%20is%20launched%20_%20ENISA_files/webtools.cck_De02.js",
+        "type": "text/javascript",
+        "id": null,
+        "inline_bytes": 0
+      }
+    ],
+    "external_hostnames": [
+      "agencies-network.europa.eu",
+      "digital-strategy.ec.europa.eu",
+      "ec.europa.eu",
+      "eur-lex.europa.eu",
+      "portal.cra-srp.enisa.europa.eu",
+      "www.enisa.europa.eu",
+      "www.facebook.com",
+      "www.linkedin.com",
+      "www.youtube.com",
+      "x.com"
+    ]
+  },
+  {
+    "sha256": "f17cb5b4ad8549077f321c56d221c8a7e3a99c57372442afd2b000dd5ed747f4",
+    "representative": "plaintext/document.html",
+    "copies": 9,
+    "bytes": 386127,
+    "title": "Myndigheten för civilt försvar – Wikipedia",
+    "comments": [
+      " CentralNotice ",
+      " \nNewPP limit report\nParsed by mw‐api‐ext.eqiad.main‐d75bdd8b8‐mqhds\nCached time: 20260915154656\nCache expiry: 2592000\nReduced expiry: false\nComplications: [show‐toc, use‐parsoid]\nCPU time usage: 1.035 seconds\nReal time usage: 1.160 seconds\nPreprocessor visited node count: 17915/1000000\nRevision size: 19545/2097152 bytes\nPost‐expand include size: 163059/2097152 bytes\nTemplate argument size: 72248/2097152 bytes\nHighest expansion depth: 15/100\nExpensive parser function count: 1/500\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 12246/5000000 bytes\nLua time usage: 0.081/10.000 seconds\nLua memory usage: 3104366/52428800 bytes\nNumber of Wikibase entities loaded: 2/500\n",
+      "\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  823.184      1 -total\n 23.65%  194.649     19 Mall:Webbref\n 23.43%  192.862     23 Mall:Citation/core\n 20.32%  167.302     19 Mall:Cite_web\n 16.54%  136.131      1 Mall:Myndighet\n 15.91%  130.978      1 Mall:Faktamall\n  9.25%   76.154      2 Mall:Officiell_webbplats\n  7.91%   65.103     58 Mall:Date\n  5.75%   47.333      1 Mall:URL\n  3.77%   31.006      2 Mall:Bokref\n",
+      " Render ID ade727c7-b11c-11f1-a1af-e91e5987e0cd ",
+      " Saved in parser cache with key svwiki:parsoid-pcache:788456:|#|:idhash:useParsoid=1 and timestamp 20260915154656 and revision id 59668697. Rendering was triggered because: MediaWiki\\Rest\\Handler\\Helper\\HtmlOutputRendererHelper::getParserOutput\n ",
+      " Parsoid 0.24.0.0-alpha22 ",
+      "\nPost‐processing cache key svwiki:postproc‐parsoid‐pcache:788456:|#|:idhash:injectTOC=0!postproc=1!skin=vector‐2022!useParsoid=1, generated at 20260915154728\n"
+    ],
+    "hidden_elements": [
+      {
+        "tag": "input",
+        "attributes": {
+          "type": "hidden",
+          "name": "title",
+          "value": "Special:Sök"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAUg"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAVg"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAWg"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAa0"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAb0"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAdA"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAdw"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAes"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAf0"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAgs"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAho"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAiU"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAjQ"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAkY"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAlU"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAmI"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAnE"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAoA"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwApI"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAqQ"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwArs"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAss"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAuA"
+        }
+      },
+      {
+        "tag": "li",
+        "attributes": {
+          "style": "display: none;"
+        }
+      },
+      {
+        "tag": "input",
+        "attributes": {
+          "type": "hidden",
+          "name": "title",
+          "value": "Special:Sök"
+        }
+      }
+    ],
+    "forms": [
+      {
+        "action": "/w/index.php",
+        "id": "searchform",
+        "class": "cdx-search-input cdx-search-input--has-end-button"
+      },
+      {},
+      {},
+      {},
+      {
+        "action": "/w/index.php",
+        "id": "vector-sticky-search-form",
+        "class": "cdx-search-input cdx-search-input--has-end-button"
+      }
+    ],
+    "scripts": [
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 5685
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 214
+      },
+      {
+        "src": "Myndigheten%20f%C3%B6r%20civilt%20f%C3%B6rsvar%20%E2%80%93%20Wikipedia_files/load_E5De.es",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 1319
+      },
+      {
+        "src": null,
+        "type": "application/ld+json",
+        "id": null,
+        "inline_bytes": 884
+      }
+    ],
+    "external_hostnames": [
+      "commons.wikimedia.org",
+      "creativecommons.org",
+      "de.wikipedia.org",
+      "developer.wikimedia.org",
+      "donate.wikimedia.org",
+      "en.wikipedia.org",
+      "fi.wikipedia.org",
+      "forumjamstalldhet.se",
+      "foundation.wikimedia.org",
+      "lagen.nu",
+      "meta.wikimedia.org",
+      "no.wikipedia.org",
+      "pt.wikipedia.org",
+      "rib.msb.se",
+      "slumpartikel.toolforge.org",
+      "stats.wikimedia.org",
+      "sv.wikipedia.org",
+      "thumb.wikimedia.org",
+      "web.archive.org",
+      "www.dagensjuridik.se",
+      "www.dn.se",
+      "www.fokus.se",
+      "www.krisinformation.se",
+      "www.mcf.se",
+      "www.mediawiki.org",
+      "www.msb.se",
+      "www.regeringen.se",
+      "www.svt.se",
+      "www.wikidata.org",
+      "www.wikimedia.org"
+    ]
+  },
+  {
+    "sha256": "a1eb8c28e867e5062746b0365478b78d4d041118b044d4ec55d6e837d37966ff",
+    "representative": "plaintext/about(7).html",
+    "copies": 8,
+    "bytes": 82424,
+    "title": "10 rekommenderade säkerhetsåtgärder",
+    "comments": [
+      " Styles ",
+      " Javascript ",
+      " Render sub navigation "
+    ],
+    "hidden_elements": [
+      {
+        "tag": "button",
+        "attributes": {
+          "class": "rsbtn_tooltoggle",
+          "data-rsshortcut": "menu",
+          "data-rslang": "title/arialabel:menu",
+          "title": "webReaders meny",
+          "aria-label": "webReaders meny",
+          "aria-controls": "rs_player_toolpanel",
+          "aria-expanded": "false",
+          "data-rs-tooltip": ".",
+          "data-rs-direction": "u",
+          "style": "display: none;",
+          "data-rs-container": "rs_player",
+          "data-rsevent-id": "rs_513298"
+        }
+      },
+      {
+        "tag": "div",
+        "attributes": {
+          "id": "rs_player_toolpanel",
+          "style": "display: none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "id": "ui-id-1",
+          "tabindex": "0",
+          "class": "ui-menu ui-widget ui-widget-content ui-autocomplete ui-front",
+          "style": "display: none;",
+          "unselectable": "on"
+        }
+      }
+    ],
+    "forms": [
+      {
+        "action": "/sv/soksida/",
+        "role": "search",
+        "method": "Get",
+        "class": "grid-x"
+      },
+      {
+        "action": "/sv/soksida/",
+        "role": "search",
+        "method": "Get",
+        "class": "grid-x"
+      }
+    ],
+    "scripts": [
+      {
+        "src": "10%20rekommenderade%20s%C3%A4kerhets%C3%A5tg%C3%A4rder_files/container_9XTe3f78_77Og.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "10%20rekommenderade%20s%C3%A4kerhets%C3%A5tg%C3%A4rder_files/klaroConfig_77Og.js",
+        "type": "application/javascript",
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "10%20rekommenderade%20s%C3%A4kerhets%C3%A5tg%C3%A4rder_files/klaro-0.7.18_77Og.js",
+        "type": "application/javascript",
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "10%20rekommenderade%20s%C3%A4kerhets%C3%A5tg%C3%A4rder_files/webReader_77Og.js",
+        "type": "text/javascript",
+        "id": "rs_req_Init",
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 369
+      },
+      {
+        "src": "10%20rekommenderade%20s%C3%A4kerhets%C3%A5tg%C3%A4rder_files/configs_77Og.php",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "10%20rekommenderade%20s%C3%A4kerhets%C3%A5tg%C3%A4rder_files/app.min_77Og.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "10%20rekommenderade%20s%C3%A4kerhets%C3%A5tg%C3%A4rder_files/Hyphenopoly_Loader_77Og.js",
+        "type": "text/javascript",
+        "id": null,
+        "inline_bytes": 0
+      }
+    ],
+    "external_hostnames": [
+      "app-eu.readspeaker.com",
+      "www.linkedin.com",
+      "www.ncsc.se"
+    ]
+  },
+  {
+    "sha256": "ed5b161fa2150964e2fb88bc40c00d0313b7a5db344ab58b9543555fef89ecdc",
+    "representative": "plaintext/archive(4).html",
+    "copies": 8,
+    "bytes": 301339,
+    "title": "Post- och telestyrelsen – Wikipedia",
+    "comments": [
+      " CentralNotice ",
+      " \nNewPP limit report\nParsed by mw‐web.eqiad.main‐6d586bc557‐2nsqq\nCached time: 20260922081741\nCache expiry: 2592000\nReduced expiry: false\nComplications: [vary‐revision, show‐toc, use‐parsoid]\nCPU time usage: 0.636 seconds\nReal time usage: 0.757 seconds\nPreprocessor visited node count: 9346/1000000\nRevision size: 10586/2097152 bytes\nPost‐expand include size: 72274/2097152 bytes\nTemplate argument size: 27283/2097152 bytes\nHighest expansion depth: 17/100\nExpensive parser function count: 3/500\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 7705/5000000 bytes\nLua time usage: 0.032/10.000 seconds\nLua memory usage: 1483049/52428800 bytes\nNumber of Wikibase entities loaded: 0/500\n",
+      "\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  557.430      1 -total\n 24.14%  134.590      9 Mall:Webbref\n 23.50%  130.979     10 Mall:Citation/core\n 21.25%  118.456      9 Mall:Cite_web\n 12.29%   68.485      1 Mall:Myndighet\n 11.58%   64.523      1 Mall:Faktamall\n 11.11%   61.919      1 Mall:Fler_källor\n  9.87%   54.999      1 Mall:Källor_metamall\n  9.04%   50.378      1 Mall:Ambox\n  7.76%   43.231     27 Mall:Date\n",
+      " Render ID 14f560c0-b65e-11f1-bb7a-65afd136df9c ",
+      " Saved in parser cache with key svwiki:parsoid-pcache:79205:|#|:idhash:useParsoid=1 and timestamp 20260922081741 and revision id 59591750. Rendering was triggered because: page_view\n ",
+      " Parsoid 0.24.0.0-alpha23 ",
+      "\nPost‐processing cache key svwiki:postproc‐parsoid‐pcache:79205:|#|:idhash:injectTOC=0!postproc=1!skin=vector‐2022!useParsoid=1, generated at 20260922081742\n"
+    ],
+    "hidden_elements": [
+      {
+        "tag": "input",
+        "attributes": {
+          "type": "hidden",
+          "name": "title",
+          "value": "Special:Sök"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwwQ"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mw0w"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mw4A"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mw_g"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwARA"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAR8"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwASw"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwATo"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAUk"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAVw"
+        }
+      },
+      {
+        "tag": "li",
+        "attributes": {
+          "style": "display: none;"
+        }
+      },
+      {
+        "tag": "input",
+        "attributes": {
+          "type": "hidden",
+          "name": "title",
+          "value": "Special:Sök"
+        }
+      }
+    ],
+    "forms": [
+      {
+        "action": "/w/index.php",
+        "id": "searchform",
+        "class": "cdx-search-input cdx-search-input--has-end-button"
+      },
+      {},
+      {},
+      {},
+      {
+        "action": "/w/index.php",
+        "id": "vector-sticky-search-form",
+        "class": "cdx-search-input cdx-search-input--has-end-button"
+      }
+    ],
+    "scripts": [
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 5444
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 214
+      },
+      {
+        "src": "Post-%20och%20telestyrelsen%20%E2%80%93%20Wikipedia_files/load_M3Sv.es",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 1318
+      },
+      {
+        "src": null,
+        "type": "application/ld+json",
+        "id": null,
+        "inline_bytes": 824
+      }
+    ],
+    "external_hostnames": [
+      "ar.wikipedia.org",
+      "commons.wikimedia.org",
+      "creativecommons.org",
+      "developer.wikimedia.org",
+      "donate.wikimedia.org",
+      "en.wikipedia.org",
+      "foundation.wikimedia.org",
+      "fr.wikipedia.org",
+      "lagen.nu",
+      "meta.wikimedia.org",
+      "no.wikipedia.org",
+      "pts.se",
+      "radionytt.se",
+      "slumpartikel.toolforge.org",
+      "stats.wikimedia.org",
+      "sv.wikipedia.org",
+      "thumb.wikimedia.org",
+      "web.archive.org",
+      "www.altinget.se",
+      "www.krisinformation.se",
+      "www.mediawiki.org",
+      "www.nkom.no",
+      "www.pts.se",
+      "www.regeringen.se",
+      "www.wikidata.org",
+      "www.wikimedia.org"
+    ]
+  },
+  {
+    "sha256": "790885f3251825bec38871483993e89de2e9ed45c4f0d73fbe8a2de5a05e7feb",
+    "representative": "plaintext/downloads(3).html",
+    "copies": 8,
+    "bytes": 67786,
+    "title": "Om centret",
+    "comments": [
+      " Styles ",
+      " Javascript ",
+      " Render sub navigation "
+    ],
+    "hidden_elements": [
+      {
+        "tag": "button",
+        "attributes": {
+          "class": "rsbtn_tooltoggle",
+          "data-rsshortcut": "menu",
+          "data-rslang": "title/arialabel:menu",
+          "title": "webReaders meny",
+          "aria-label": "webReaders meny",
+          "aria-controls": "rs_player_toolpanel",
+          "aria-expanded": "false",
+          "data-rs-tooltip": ".",
+          "data-rs-direction": "u",
+          "style": "display: none;",
+          "data-rs-container": "rs_player",
+          "data-rsevent-id": "rs_119489"
+        }
+      },
+      {
+        "tag": "div",
+        "attributes": {
+          "id": "rs_player_toolpanel",
+          "style": "display: none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "id": "ui-id-1",
+          "tabindex": "0",
+          "class": "ui-menu ui-widget ui-widget-content ui-autocomplete ui-front",
+          "style": "display: none;",
+          "unselectable": "on"
+        }
+      }
+    ],
+    "forms": [
+      {
+        "action": "/sv/soksida/",
+        "role": "search",
+        "method": "Get",
+        "class": "grid-x"
+      },
+      {
+        "action": "/sv/soksida/",
+        "role": "search",
+        "method": "Get",
+        "class": "grid-x"
+      }
+    ],
+    "scripts": [
+      {
+        "src": "Om%20centret_files/container_9XTe3f78_UYsW.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Om%20centret_files/klaroConfig_UYsW.js",
+        "type": "application/javascript",
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Om%20centret_files/klaro-0.7.18_UYsW.js",
+        "type": "application/javascript",
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Om%20centret_files/webReader_UYsW.js",
+        "type": "text/javascript",
+        "id": "rs_req_Init",
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 369
+      },
+      {
+        "src": "Om%20centret_files/configs_UYsW.php",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Om%20centret_files/app.min_UYsW.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Om%20centret_files/Hyphenopoly_Loader_UYsW.js",
+        "type": "text/javascript",
+        "id": null,
+        "inline_bytes": 0
+      }
+    ],
+    "external_hostnames": [
+      "app-eu.readspeaker.com",
+      "www.linkedin.com",
+      "www.ncsc.se",
+      "www.riksdagen.se"
+    ]
+  },
+  {
+    "sha256": "6ec6f49dcdae0648aa97a07fb370a520f2ba459748315b1c42041d69d4752d75",
+    "representative": "plaintext/events(5).html",
+    "copies": 8,
+    "bytes": 466081,
+    "title": "Försvarets radioanstalt – Wikipedia",
+    "comments": [
+      " CentralNotice ",
+      " \nNewPP limit report\nParsed by mw‐jobrunner.eqiad.main‐6968c5dcc6‐nj5s8\nCached time: 20260825131357\nCache expiry: 2592000\nReduced expiry: false\nComplications: [show‐toc, use‐parsoid]\nCPU time usage: 1.528 seconds\nReal time usage: 1.657 seconds\nPreprocessor visited node count: 26509/1000000\nRevision size: 26177/2097152 bytes\nPost‐expand include size: 239075/2097152 bytes\nTemplate argument size: 117131/2097152 bytes\nHighest expansion depth: 17/100\nExpensive parser function count: 0/500\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 13561/5000000 bytes\nLua time usage: 0.117/10.000 seconds\nLua memory usage: 1390939/52428800 bytes\nNumber of Wikibase entities loaded: 1/500\n",
+      "\nTransclusion expansion time report (%,ms,calls,template)\n100.00% 1164.131      1 -total\n 33.16%  385.994     35 Mall:Citation/core\n 31.67%  368.712     29 Mall:Webbref\n 28.70%  334.058     29 Mall:Cite_web\n 12.65%  147.275    107 Mall:Date\n  5.43%   63.218      1 Mall:Myndighetsfakta\n  4.96%   57.704      1 Mall:Faktamall\n  4.82%   56.058      4 Mall:Tidningsref\n  4.55%   52.965      4 Mall:Cite_news\n  3.37%   39.214      1 Mall:Commonscat\n",
+      " Render ID d41e1b11-a086-11f1-acf9-c913df5c84ee ",
+      " Saved in parser cache with key svwiki:parsoid-pcache:49389:|#|:idhash:useParsoid=1 and timestamp 20260825131357 and revision id 59467668. Rendering was triggered because: view\n ",
+      " Parsoid 0.24.0.0-alpha19 ",
+      "\nPost‐processing cache key svwiki:postproc‐parsoid‐pcache:49389:|#|:idhash:injectTOC=0!postproc=1!skin=vector‐2022!useParsoid=1, generated at 20260825193528\n"
+    ],
+    "hidden_elements": [
+      {
+        "tag": "input",
+        "attributes": {
+          "type": "hidden",
+          "name": "title",
+          "value": "Special:Sök"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAbs"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAco"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAdk"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAeg"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAfc"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAgY"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAhU"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAiI"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAjE"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAj4"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAks"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAl0"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAnQ"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAoI"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwApA"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAqA"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwArA"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAsE"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAtI"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAus"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAvs"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAws"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAxg"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAyU"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAzI"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwAz8"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwA00"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwA1w"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwA2s"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwA3s"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwA5o"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwA6k"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwA74"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwA80"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwA94"
+        }
+      },
+      {
+        "tag": "div",
+        "attributes": {
+          "class": "interProject commons",
+          "style": "display:none;",
+          "about": "#mwt132",
+          "id": "mwA-o"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "style": "height:2px;",
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "style": "height:2px;",
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "style": "height:2px",
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "style": "height:2px",
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "style": "height:2px;",
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "style": "height:2px",
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "style": "height:2px",
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "style": "height:2px",
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "style": "height:2px",
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "style": "height:2px;",
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "tr",
+        "attributes": {
+          "hidden": "until-found"
+        }
+      },
+      {
+        "tag": "li",
+        "attributes": {
+          "style": "display: none;"
+        }
+      },
+      {
+        "tag": "input",
+        "attributes": {
+          "type": "hidden",
+          "name": "title",
+          "value": "Special:Sök"
+        }
+      }
+    ],
+    "forms": [
+      {
+        "action": "/w/index.php",
+        "id": "searchform",
+        "class": "cdx-search-input cdx-search-input--has-end-button"
+      },
+      {},
+      {},
+      {},
+      {
+        "action": "/w/index.php",
+        "id": "vector-sticky-search-form",
+        "class": "cdx-search-input cdx-search-input--has-end-button"
+      }
+    ],
+    "scripts": [
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 5437
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 214
+      },
+      {
+        "src": "F%C3%B6rsvarets%20radioanstalt%20%E2%80%93%20Wikipedia_files/load_T-Pa.es",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 803
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 1331
+      },
+      {
+        "src": null,
+        "type": "application/ld+json",
+        "id": null,
+        "inline_bytes": 882
+      }
+    ],
+    "external_hostnames": [
+      "ar.wikipedia.org",
+      "arkiv.nu",
+      "commons.wikimedia.org",
+      "creativecommons.org",
+      "da.wikipedia.org",
+      "de.wikipedia.org",
+      "developer.wikimedia.org",
+      "donate.wikimedia.org",
+      "en.wikipedia.org",
+      "fi.wikipedia.org",
+      "foundation.wikimedia.org",
+      "fr.wikipedia.org",
+      "frode.home.cern.ch",
+      "ja.wikipedia.org",
+      "lagen.nu",
+      "meta.wikimedia.org",
+      "nl.wikipedia.org",
+      "no.wikipedia.org",
+      "periodista.se",
+      "pl.wikipedia.org",
+      "regeringen.se",
+      "ru.wikipedia.org",
+      "slumpartikel.toolforge.org",
+      "stats.wikimedia.org",
+      "sv.wikipedia.org",
+      "sverigesradio.se",
+      "thumb.wikimedia.org",
+      "web.archive.org",
+      "www.datainspektionen.se",
+      "www.dn.se",
+      "www.documentcloud.org",
+      "www.fra.se",
+      "www.iclklamberg.com",
+      "www.idg.se",
+      "www.mediawiki.org",
+      "www.metro.se",
+      "www.nyteknik.se",
+      "www.regeringen.se",
+      "www.riksdagen.se",
+      "www.sr.se",
+      "www.svd.se",
+      "www.svt.se",
+      "www.top500.org",
+      "www.wikidata.org",
+      "www.wikimedia.org"
+    ]
+  },
+  {
+    "sha256": "4c5def184263fcb321d62a116c4f1c3edf091854cb365191c7f70b10f6cbdef7",
+    "representative": "plaintext/faq(6).html",
+    "copies": 8,
+    "bytes": 66531,
+    "title": "Jobba hos oss",
+    "comments": [
+      " Styles ",
+      " Javascript ",
+      " Render sub navigation "
+    ],
+    "hidden_elements": [
+      {
+        "tag": "button",
+        "attributes": {
+          "class": "rsbtn_tooltoggle",
+          "data-rsshortcut": "menu",
+          "data-rslang": "title/arialabel:menu",
+          "title": "webReaders meny",
+          "aria-label": "webReaders meny",
+          "aria-controls": "rs_player_toolpanel",
+          "aria-expanded": "false",
+          "data-rs-tooltip": ".",
+          "data-rs-direction": "u",
+          "style": "display: none;",
+          "data-rs-container": "rs_player",
+          "data-rsevent-id": "rs_419114"
+        }
+      },
+      {
+        "tag": "div",
+        "attributes": {
+          "id": "rs_player_toolpanel",
+          "style": "display: none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "id": "ui-id-1",
+          "tabindex": "0",
+          "class": "ui-menu ui-widget ui-widget-content ui-autocomplete ui-front",
+          "style": "display: none;",
+          "unselectable": "on"
+        }
+      }
+    ],
+    "forms": [
+      {
+        "action": "/sv/soksida/",
+        "role": "search",
+        "method": "Get",
+        "class": "grid-x"
+      },
+      {
+        "action": "/sv/soksida/",
+        "role": "search",
+        "method": "Get",
+        "class": "grid-x"
+      }
+    ],
+    "scripts": [
+      {
+        "src": "Jobba%20hos%20oss_files/container_9XTe3f78_ASHZ.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Jobba%20hos%20oss_files/klaroConfig_ASHZ.js",
+        "type": "application/javascript",
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Jobba%20hos%20oss_files/klaro-0.7.18_ASHZ.js",
+        "type": "application/javascript",
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Jobba%20hos%20oss_files/webReader_ASHZ.js",
+        "type": "text/javascript",
+        "id": "rs_req_Init",
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 369
+      },
+      {
+        "src": "Jobba%20hos%20oss_files/configs_ASHZ.php",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Jobba%20hos%20oss_files/app.min_ASHZ.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Jobba%20hos%20oss_files/Hyphenopoly_Loader_ASHZ.js",
+        "type": "text/javascript",
+        "id": null,
+        "inline_bytes": 0
+      }
+    ],
+    "external_hostnames": [
+      "app-eu.readspeaker.com",
+      "fra.se",
+      "recruit.visma.com",
+      "www.linkedin.com",
+      "www.ncsc.se"
+    ]
+  },
+  {
+    "sha256": "175c7d80bde8b7bada947059542fa59d0f473124642ed5637f24c90648791efb",
+    "representative": "plaintext/account(3).html",
+    "copies": 6,
+    "bytes": 24419,
+    "title": "Nyheter - CERT-SE",
+    "comments": [
+      "<div class=\"page-size\"><span class=\"page-size-item\"></span></div>",
+      "<input type=\"search\" class=\"input-search input-search-header\" placeholder=\"Sök inom CERT-SE\">",
+      "\n\t\t<h4>Cybersäkerhetsrådgivningen</h4>\n\t<p>Har du frågor om rapporteringsplikt enligt cybersäkerhetslagen, NIS2 eller beredskapsförordningen? Kontakta <a href=\"https://www.mcf.se/sv/verktyg--tjanster/cybersakerhetsradgivning/\">Cybersäkerhetsrådgivningen vid Myndigheten för civilt försvar</a>.</p> "
+    ],
+    "hidden_elements": [],
+    "forms": [],
+    "scripts": [],
+    "external_hostnames": [
+      "cert.se",
+      "cyberportal.mcf.se",
+      "ncsc.se",
+      "www.cert.se",
+      "www.first.org",
+      "www.ncsc.se",
+      "www.trusted-introducer.org"
+    ]
+  },
+  {
+    "sha256": "df6f289b814f74e88c2ad9a1cf9ae006bf9388ac2c61918af20b2fef7352530f",
+    "representative": "plaintext/administrator(2).html",
+    "copies": 6,
+    "bytes": 16426,
+    "title": "Om CERT-SE - CERT-SE",
+    "comments": [
+      "<div class=\"page-size\"><span class=\"page-size-item\"></span></div>",
+      "<input type=\"search\" class=\"input-search input-search-header\" placeholder=\"Sök inom CERT-SE\">",
+      "\n\t\t<h4>Cybersäkerhetsrådgivningen</h4>\n\t<p>Har du frågor om rapporteringsplikt enligt cybersäkerhetslagen, NIS2 eller beredskapsförordningen? Kontakta <a href=\"https://www.mcf.se/sv/verktyg--tjanster/cybersakerhetsradgivning/\">Cybersäkerhetsrådgivningen vid Myndigheten för civilt försvar</a>.</p> "
+    ],
+    "hidden_elements": [],
+    "forms": [],
+    "scripts": [],
+    "external_hostnames": [
+      "cert.se",
+      "cyberportal.mcf.se",
+      "fra.se",
+      "ncsc.se",
+      "www.cert.se",
+      "www.first.org",
+      "www.ncsc.se",
+      "www.trusted-introducer.org"
+    ]
+  },
+  {
+    "sha256": "b5184778fe97ccb611b58d3ae3755e4217fa1d17d7ecde70de4ce7600a0ad1b2",
+    "representative": "plaintext/downloads.html",
+    "copies": 6,
+    "bytes": 236643,
+    "title": "Lokal – Wikipedia",
+    "comments": [
+      " CentralNotice ",
+      " \nNewPP limit report\nParsed by mw‐web.eqiad.main‐5f44b69bf5‐zkhr2\nCached time: 20260908082523\nCache expiry: 2592000\nReduced expiry: false\nComplications: [use‐parsoid]\nCPU time usage: 0.077 seconds\nReal time usage: 0.096 seconds\nPreprocessor visited node count: 619/1000000\nRevision size: 956/2097152 bytes\nPost‐expand include size: 4652/2097152 bytes\nTemplate argument size: 1931/2097152 bytes\nHighest expansion depth: 14/100\nExpensive parser function count: 0/500\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 239/5000000 bytes\nLua time usage: 0.004/10.000 seconds\nLua memory usage: 669369/52428800 bytes\nNumber of Wikibase entities loaded: 0/500\n",
+      "\nTransclusion expansion time report (%,ms,calls,template)\n100.00%   52.157      1 -total\n 57.83%   30.161      1 Mall:Webbref\n 47.62%   24.837      1 Mall:Cite_web\n 41.71%   21.754      1 Mall:Citation/core\n 36.01%   18.783      1 Mall:Olika_betydelser\n 31.78%   16.576      1 Mall:PAGENAMEBASE\n 15.33%    7.996      2 Mall:Date\n  4.39%    2.291      1 Mall:Link\n  4.25%    2.216      1 Mall:Italiclink\n  2.94%    1.533      4 Mall:Void\n",
+      " Render ID d5f3e03e-ab5e-11f1-bfa3-1588195b86d0 ",
+      " Saved in parser cache with key svwiki:parsoid-pcache:257097:|#|:idhash:useParsoid=1 and timestamp 20260908082523 and revision id 59374876. Rendering was triggered because: page_view\n ",
+      " Parsoid 0.24.0.0-alpha21 ",
+      "\nPost‐processing cache key svwiki:postproc‐parsoid‐pcache:257097:|#|:idhash:injectTOC=0!postproc=1!skin=vector‐2022!useParsoid=1, generated at 20260908082523\n"
+    ],
+    "hidden_elements": [
+      {
+        "tag": "input",
+        "attributes": {
+          "type": "hidden",
+          "name": "title",
+          "value": "Special:Sök"
+        }
+      },
+      {
+        "tag": "span",
+        "attributes": {
+          "style": "display: none;",
+          "id": "mwJQ"
+        }
+      },
+      {
+        "tag": "li",
+        "attributes": {
+          "style": "display: none;"
+        }
+      },
+      {
+        "tag": "input",
+        "attributes": {
+          "type": "hidden",
+          "name": "title",
+          "value": "Special:Sök"
+        }
+      }
+    ],
+    "forms": [
+      {
+        "action": "/w/index.php",
+        "id": "searchform",
+        "class": "cdx-search-input cdx-search-input--has-end-button"
+      },
+      {},
+      {},
+      {},
+      {
+        "action": "/w/index.php",
+        "id": "vector-sticky-search-form",
+        "class": "cdx-search-input cdx-search-input--has-end-button"
+      }
+    ],
+    "scripts": [
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 4912
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 214
+      },
+      {
+        "src": "Lokal%20%E2%80%93%20Wikipedia_files/load_B6FK.es",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 803
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 1306
+      },
+      {
+        "src": null,
+        "type": "application/ld+json",
+        "id": null,
+        "inline_bytes": 564
+      }
+    ],
+    "external_hostnames": [
+      "commons.wikimedia.org",
+      "creativecommons.org",
+      "developer.wikimedia.org",
+      "donate.wikimedia.org",
+      "en.wikipedia.org",
+      "foundation.wikimedia.org",
+      "meta.wikimedia.org",
+      "pl.wikipedia.org",
+      "slumpartikel.toolforge.org",
+      "stats.wikimedia.org",
+      "sv.wikipedia.org",
+      "www.mediawiki.org",
+      "www.wikidata.org",
+      "www.wikimedia.org",
+      "yta.se"
+    ]
+  },
+  {
+    "sha256": "74d69c247e2a2ddcf0c19379d83c525e5056fb71fcc686fc8380c823b4421492",
+    "representative": "plaintext/404(4).html",
+    "copies": 5,
+    "bytes": 7791,
+    "title": "Home - Wireshark Wiki",
+    "comments": [],
+    "hidden_elements": [],
+    "forms": [],
+    "scripts": [],
+    "external_hostnames": [
+      "en.wikipedia.org",
+      "gitlab.com",
+      "wiki.wireshark.org",
+      "wiresharkfoundation.org",
+      "www.wireshark.org"
+    ]
+  },
+  {
+    "sha256": "8f5becc78ab4fb45b27dfe3becef29b2d48cce9dab746a9dfec1c288d969320d",
+    "representative": "plaintext/contact(12).html",
+    "copies": 5,
+    "bytes": 324779,
+    "title": "Start | Sveriges riksdag",
+    "comments": [],
+    "hidden_elements": [],
+    "forms": [],
+    "scripts": [
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/be8ddfff9c298b30_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/325f0ce529bbc2ad_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/fbd174619d5069c2_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/86a9f2b954b9ca4a_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/41f81f16c8863b2e_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/bc5d742a34a6bb0c_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/b1f3408e01d7ecc2_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/85b633b7b7be4662_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/e747606f0284ef07_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/1c365203f4ea09b5_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/ce30e50442ad28de_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/270714304ea0920a_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/188d40b79c381727_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/b8c85eb570bec0cd_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/ea586e3c86bda82f_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/f2263fca8e19a03a_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/turbopack-043df25c5b4cbaa3_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/dfd109c0b715b756_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/turbopack-17bbee68727b973a_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/_ssgManifest_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/_buildManifest_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/0183ab52bf9f47a8_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/turbopack-65a13181e7819620_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/0798358c98116a00_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/e51922304789fac1_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/0f08211b5e9a8d4c_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/2f18a91d9cfdecdb_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/13b0e5f5cdd3a926_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/0f0e2d5d636bba0a_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/4306d278fec92678_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/2465db12fc55f046_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/ca72cb6c841a3ec7_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/5262a92c9d7b8687_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/92a87bb0fa8cd7ea_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/turbopack-ceec9d2dc341e5c3_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 377
+      },
+      {
+        "src": null,
+        "type": "application/json",
+        "id": "__NEXT_DATA__",
+        "inline_bytes": 212799
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/070bf11dffc3cfdb_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Start%20_%20Sveriges%20riksdag_files/c1404bb65ef42c3d_7V0t.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      }
+    ],
+    "external_hostnames": [
+      "bsky.app",
+      "data.riksdagen.se",
+      "twitter.com",
+      "www.instagram.com",
+      "www.linkedin.com",
+      "www.riksdagen.se",
+      "www.youtube.com"
+    ]
+  },
+  {
+    "sha256": "0802c251ea0b44d56b614a2afa72a86e94801d5cbd48d2df494f5947e24bb692",
+    "representative": "plaintext/cart(6).html",
+    "copies": 4,
+    "bytes": 64197,
+    "title": "Föreskrifter",
+    "comments": [
+      " Styles ",
+      " Javascript ",
+      " Render sub navigation "
+    ],
+    "hidden_elements": [
+      {
+        "tag": "button",
+        "attributes": {
+          "class": "rsbtn_tooltoggle",
+          "data-rsshortcut": "menu",
+          "data-rslang": "title/arialabel:menu",
+          "title": "webReaders meny",
+          "aria-label": "webReaders meny",
+          "aria-controls": "rs_player_toolpanel",
+          "aria-expanded": "false",
+          "data-rs-tooltip": ".",
+          "data-rs-direction": "u",
+          "style": "display: none;",
+          "data-rs-container": "rs_player",
+          "data-rsevent-id": "rs_935595"
+        }
+      },
+      {
+        "tag": "div",
+        "attributes": {
+          "id": "rs_player_toolpanel",
+          "style": "display: none;"
+        }
+      },
+      {
+        "tag": "ul",
+        "attributes": {
+          "id": "ui-id-1",
+          "tabindex": "0",
+          "class": "ui-menu ui-widget ui-widget-content ui-autocomplete ui-front",
+          "style": "display: none;",
+          "unselectable": "on"
+        }
+      }
+    ],
+    "forms": [
+      {
+        "action": "/sv/soksida/",
+        "role": "search",
+        "method": "Get",
+        "class": "grid-x"
+      },
+      {
+        "action": "/sv/soksida/",
+        "role": "search",
+        "method": "Get",
+        "class": "grid-x"
+      }
+    ],
+    "scripts": [
+      {
+        "src": "F%C3%B6reskrifter_files/container_9XTe3f78_n3LM.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "F%C3%B6reskrifter_files/klaroConfig_n3LM.js",
+        "type": "application/javascript",
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "F%C3%B6reskrifter_files/klaro-0.7.18_n3LM.js",
+        "type": "application/javascript",
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "F%C3%B6reskrifter_files/webReader_n3LM.js",
+        "type": "text/javascript",
+        "id": "rs_req_Init",
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 369
+      },
+      {
+        "src": "F%C3%B6reskrifter_files/configs_n3LM.php",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "F%C3%B6reskrifter_files/app.min_n3LM.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "F%C3%B6reskrifter_files/Hyphenopoly_Loader_n3LM.js",
+        "type": "text/javascript",
+        "id": null,
+        "inline_bytes": 0
+      }
+    ],
+    "external_hostnames": [
+      "app-eu.readspeaker.com",
+      "www.linkedin.com",
+      "www.ncsc.se"
+    ]
+  },
+  {
+    "sha256": "467d6cbd85d2eb78590071d2c874b77fbde2bdb161d7baf80126a791def0e2f4",
+    "representative": "plaintext/logout(3).html",
+    "copies": 2,
+    "bytes": 312051,
+    "title": "Lag (2006:544) om kommuners och regioners åtgärder inför och vid extraordinära händelser i fredstid och höjd beredskap | Sveriges riksdag",
+    "comments": [],
+    "hidden_elements": [],
+    "forms": [],
+    "scripts": [
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/be8ddfff9c298b30_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/325f0ce529bbc2ad_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/fbd174619d5069c2_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/86a9f2b954b9ca4a_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/41f81f16c8863b2e_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/bc5d742a34a6bb0c_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/b1f3408e01d7ecc2_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/85b633b7b7be4662_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/e747606f0284ef07_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/1c365203f4ea09b5_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/ce30e50442ad28de_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/270714304ea0920a_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/188d40b79c381727_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/b8c85eb570bec0cd_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/ea586e3c86bda82f_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/f2263fca8e19a03a_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/turbopack-043df25c5b4cbaa3_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/dfd109c0b715b756_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/turbopack-17bbee68727b973a_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/_ssgManifest_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/_buildManifest_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/0183ab52bf9f47a8_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/turbopack-65a13181e7819620_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      },
+      {
+        "src": null,
+        "type": null,
+        "id": null,
+        "inline_bytes": 377
+      },
+      {
+        "src": null,
+        "type": "application/ld+json",
+        "id": null,
+        "inline_bytes": 474
+      },
+      {
+        "src": null,
+        "type": "application/json",
+        "id": "__NEXT_DATA__",
+        "inline_bytes": 212799
+      },
+      {
+        "src": "Lag%20(2006_544)%20om%20kommuners%20och%20regioners%20%C3%A5tg%C3%A4rder%20inf%C3%B6r%20och%20vid%20extraordin%C3%A4ra%20h%C3%A4ndelser%20i%20fredstid%20och%20h%C3%B6jd%20beredskap%20_%20Sveriges%20riksdag_files/070bf11dffc3cfdb_AVj4.js",
+        "type": null,
+        "id": null,
+        "inline_bytes": 0
+      }
+    ],
+    "external_hostnames": [
+      "bsky.app",
+      "rkrattsbaser.gov.se",
+      "twitter.com",
+      "www.instagram.com",
+      "www.linkedin.com",
+      "www.riksdagen.se",
+      "www.youtube.com"
+    ]
+  },
+  {
+    "sha256": "7bfbc8202b8cdbdcc597a0e789240f0dc0b0e94fa6597e576eaf436bc6223e18",
+    "representative": "plaintext/canonical.html",
+    "copies": 1,
+    "bytes": 90,
+    "title": "",
+    "comments": [],
+    "hidden_elements": [],
+    "forms": [],
+    "scripts": [],
+    "external_hostnames": []
+  },
+  {
+    "sha256": "81b2bd4ea98c8db66554fbc8d7637a1a69a130f331feb732b75caab4c4868fd5",
+    "representative": "plaintext/success.txt",
+    "copies": 1,
+    "bytes": 8,
+    "title": "",
+    "comments": [],
+    "hidden_elements": [],
+    "forms": [],
+    "scripts": [],
+    "external_hostnames": []
+  }
+]

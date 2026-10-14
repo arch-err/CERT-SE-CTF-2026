@@ -1,0 +1,97 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            06:4a:a8:cd:f1:2a:f6:e5:8f:57:94:42:fc:6a:d7:d8:54:96
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=US, O=Let's Encrypt, CN=YR2
+        Validity
+            Not Before: Aug 10 12:38:09 2026 GMT
+            Not After : Nov  8 12:38:08 2026 GMT
+        Subject: CN=firefox.settings.services.mozilla.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ed:79:d1:a6:14:01:da:e5:96:39:e3:ed:b4:88:
+                    ae:75:20:fb:e7:bc:41:ff:2e:90:69:a6:51:2a:92:
+                    74:60:ed:0d:69:73:91:5e:c6:5b:a7:b6:46:a5:ab:
+                    f8:dc:76:42:0e:34:c1:1c:6e:cd:e3:0f:48:67:3c:
+                    6d:50:5e:83:49:86:94:cd:25:4b:62:7c:69:63:04:
+                    d6:b0:76:cc:c2:68:0f:1b:ee:70:01:c1:ae:a6:7c:
+                    8a:ee:62:e2:39:fd:f4:17:60:16:f7:af:f3:44:4d:
+                    9b:70:1d:7b:6c:f6:e6:02:5a:48:1c:7e:f9:be:d0:
+                    d4:72:70:c6:64:31:43:71:2a:1c:16:ef:9a:32:d3:
+                    e0:e2:05:3c:4b:6e:0f:af:a6:e1:6d:6d:19:97:ea:
+                    7e:4f:c4:66:b7:c4:5b:22:cb:c2:1b:97:08:42:7d:
+                    26:61:47:a3:0f:6a:36:53:a7:21:c8:7d:f8:40:15:
+                    5e:a1:f2:75:3e:dd:35:a0:96:10:2c:91:c5:c8:67:
+                    2c:3f:93:c2:59:e0:70:4f:50:99:06:60:cd:cc:4a:
+                    d7:f8:6d:48:17:91:f9:26:69:a9:31:b2:85:4e:3a:
+                    de:32:d5:1d:3d:ad:43:2d:de:1c:51:a8:56:ac:c5:
+                    9e:25:7f:2e:ac:bc:69:12:fe:55:06:12:0e:16:ac:
+                    c9:4f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: critical
+                Digital Signature, Key Encipherment
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Basic Constraints: critical
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                39:57:8E:62:3D:E5:69:38:21:9F:28:6B:A2:C3:4E:1F:DC:93:7C:8A
+            X509v3 Authority Key Identifier: 
+                40:15:2D:26:79:ED:32:20:9E:DF:9A:72:1D:D6:32:1F:81:0C:81:0C
+            Authority Information Access: 
+                CA Issuers - URI:http://yr2.i.lencr.org/
+            X509v3 Subject Alternative Name: 
+                DNS:firefox-settings.mozilla-backup.org, DNS:firefox.settings.services.mozilla.com
+            X509v3 Certificate Policies: 
+                Policy: 2.23.140.1.2.1
+            X509v3 CRL Distribution Points: 
+                Full Name:
+                  URI:http://yr2.c.lencr.org/23.crl
+
+            CT Precertificate SCTs: 
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 94:4E:43:87:FA:EC:C1:EF:81:F3:19:24:26:A8:18:65:
+                                01:C7:D3:5F:38:02:01:3F:72:67:7D:55:37:2E:19:D8
+                    Timestamp : Aug 10 13:36:39.480 2026 GMT
+                    Extensions: none
+                    Signature : ecdsa-with-SHA256
+                                30:45:02:20:71:45:FD:35:CF:07:59:C4:E9:1B:10:E2:
+                                84:D4:68:2D:E3:E5:C1:93:9E:4D:6A:FC:E3:AC:6D:E7:
+                                01:B5:1D:F2:02:21:00:AB:48:FF:FB:9A:34:3E:CC:D8:
+                                05:83:A4:2D:BF:03:19:FF:5E:68:49:28:8F:D8:BA:A0:
+                                51:68:2C:46:24:70:69
+                Signed Certificate Timestamp:
+                    Version   : v1 (0x0)
+                    Log ID    : 6C:FE:50:19:43:A8:5E:A9:16:BC:52:D1:33:E4:DC:C9:
+                                1E:F1:41:1C:7D:25:84:20:D1:73:80:9E:18:18:EB:3A
+                    Timestamp : Aug 10 13:36:39.993 2026 GMT
+                    Extensions: 00:00:05:00:1B:C2:86:D4
+                    Signature : ecdsa-with-SHA256
+                                30:46:02:21:00:AD:D0:B1:05:2A:A9:C2:EA:A3:35:F1:
+                                68:4D:41:1F:FB:CC:F9:92:C1:37:07:6E:91:AD:3A:6C:
+                                51:5B:29:42:EF:02:21:00:9C:D2:47:2D:48:E3:8D:38:
+                                EF:D0:42:AC:3C:49:0E:3A:B5:31:22:62:79:0D:A8:84:
+                                5F:29:C5:CD:33:E1:04:70
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        02:98:5a:e6:fe:a7:4d:8f:28:71:3d:3d:ca:f3:0a:40:80:de:
+        f9:89:bc:db:25:5a:54:36:b9:08:59:f4:aa:0a:b1:1a:94:a7:
+        b8:83:f7:ac:89:d1:49:9e:2a:cb:7d:fc:19:0a:44:84:93:ec:
+        18:c1:60:ec:47:43:47:57:a1:c4:85:51:07:c5:4f:ff:39:f7:
+        42:f6:26:1e:39:46:8c:87:34:95:29:a0:ae:e8:ed:7e:7e:1d:
+        86:86:29:4d:41:0c:8f:1a:ac:08:64:80:05:4c:e8:bf:6f:2c:
+        62:75:f8:65:f3:e8:01:bf:be:df:70:12:d1:17:4e:6c:ae:05:
+        63:53:ab:0a:7b:91:bd:4a:1e:06:a9:90:50:b9:c8:85:65:d1:
+        30:62:2b:fb:37:67:a8:22:3b:0a:cc:05:26:3d:a2:46:ae:10:
+        33:50:1e:74:e4:97:f1:ed:00:83:4a:0f:2c:b2:99:59:13:12:
+        75:3a:a1:0d:c3:56:7e:b1:2a:ca:37:ca:e7:77:38:bb:fe:23:
+        8b:5b:84:fd:19:52:ba:9a:9d:b9:b9:ea:3f:15:2a:36:60:d4:
+        a5:57:2c:5a:7b:86:f9:0d:f5:09:08:bf:bc:90:f6:fe:11:84:
+        45:de:f3:b9:2d:1e:b1:86:07:d1:08:04:4a:cc:ce:b4:95:0e:
+        54:ed:e7:d7

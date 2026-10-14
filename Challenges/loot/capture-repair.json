@@ -1,0 +1,15 @@
+{
+  "source": "Challenges/CERT-SE_CTF_2026.pcapng",
+  "source_sha256": "4e8f09a85c7fcfb1dbee3a7714cc0fa08a74086020721cceaa82b365b6d68ab1",
+  "repaired_file": "CERT-SE_CTF_2026.repaired.pcapng",
+  "repaired_sha256": "21913a193dd2d66112a645fda256033f2b5a3db6ed9172cb9b9924577ed4ff74",
+  "valid_bytes": 45133976,
+  "trailing_bytes": 16,
+  "blocks_by_type": {
+    "0x0a0d0d0a": 1,
+    "0x00000001": 1,
+    "0x00000006": 19007,
+    "0x00000005": 1
+  },
+  "repair": "Remove trailing non-PCAPNG bytes only; valid blocks unchanged."
+}

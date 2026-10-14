@@ -1,0 +1,8 @@
+{
+  "source": "../binary/Om_oss.odt",
+  "trailing_blank_paragraphs": 131,
+  "spaces": 0,
+  "tabs": 166,
+  "paragraph_newlines": 131,
+  "mapping": "ODF text:s -> counted spaces; text:tab -> tab; text:line-break -> newline; paragraph end -> newline; soft-page-break omitted as layout marker."
+}

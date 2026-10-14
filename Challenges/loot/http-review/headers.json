@@ -1,0 +1,583 @@
+{
+  "request": {
+    "accept": {
+      "occurrences": 1073,
+      "distinct_values": 2,
+      "values": {
+        "*/*": 1072,
+        "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8": 1
+      }
+    },
+    "accept-encoding": {
+      "occurrences": 1072,
+      "distinct_values": 2,
+      "values": {
+        "gzip, deflate, br, zstd": 1067,
+        "gzip, deflate": 5
+      }
+    },
+    "accept-language": {
+      "occurrences": 5,
+      "distinct_values": 1,
+      "values": {
+        "en-US,en;q=0.5": 5
+      }
+    },
+    "cache-control": {
+      "occurrences": 4,
+      "distinct_values": 1,
+      "values": {
+        "no-cache": 4
+      }
+    },
+    "connection": {
+      "occurrences": 1073,
+      "distinct_values": 2,
+      "values": {
+        "keep-alive": 1072,
+        "close": 1
+      }
+    },
+    "content-length": {
+      "occurrences": 1,
+      "distinct_values": 1,
+      "values": {
+        "83": 1
+      }
+    },
+    "content-type": {
+      "occurrences": 1,
+      "distinct_values": 1,
+      "values": {
+        "application/ocsp-request": 1
+      }
+    },
+    "host": {
+      "occurrences": 1073,
+      "distinct_values": 4,
+      "values": {
+        "192.168.122.1": 1069,
+        "detectportal.firefox.com": 2,
+        "ocsp.digicert.com": 1,
+        "connectivity-check.ubuntu.com": 1
+      }
+    },
+    "pragma": {
+      "occurrences": 4,
+      "distinct_values": 1,
+      "values": {
+        "no-cache": 4
+      }
+    },
+    "priority": {
+      "occurrences": 4,
+      "distinct_values": 3,
+      "values": {
+        "u=2": 1,
+        "u=4": 2,
+        "u=0, i": 1
+      }
+    },
+    "referer": {
+      "occurrences": 2,
+      "distinct_values": 1,
+      "values": {
+        "http://192.168.122.1/": 2
+      }
+    },
+    "upgrade-insecure-requests": {
+      "occurrences": 1,
+      "distinct_values": 1,
+      "values": {
+        "1": 1
+      }
+    },
+    "user-agent": {
+      "occurrences": 1072,
+      "distinct_values": 3,
+      "values": {
+        "python-requests/2.32.4": 1067,
+        "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:141.0) Gecko/20100101 Firefox/141.0": 3,
+        "Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0": 2
+      }
+    }
+  },
+  "response": {
+    "accept-ranges": {
+      "occurrences": 2,
+      "distinct_values": 1,
+      "values": {
+        "bytes": 2
+      }
+    },
+    "cache-control": {
+      "occurrences": 3,
+      "distinct_values": 2,
+      "values": {
+        "public, must-revalidate, max-age=0, s-maxage=3600": 2,
+        "max-age=1672": 1
+      }
+    },
+    "connection": {
+      "occurrences": 791,
+      "distinct_values": 2,
+      "values": {
+        "close": 790,
+        "keep-alive": 1
+      }
+    },
+    "content-disposition": {
+      "occurrences": 280,
+      "distinct_values": 102,
+      "values": {
+        "inline; filename=\"profile.html\"": 2,
+        "inline; filename=\"products.html\"": 3,
+        "inline; filename=\"secrets.html\"": 4,
+        "inline; filename=\"events.html\"": 3,
+        "inline; filename=\"user.html\"": 4,
+        "inline; filename=\"robots.html\"": 3,
+        "inline; filename=\"home.html\"": 4,
+        "inline; filename=\"config.html\"": 1,
+        "inline; filename=\"index.html\"": 8,
+        "inline; filename=\"articles.html\"": 2,
+        "inline; filename=\"configuration.html\"": 3,
+        "inline; filename=\"cart.html\"": 4,
+        "inline; filename=\"terms.html\"": 1,
+        "inline; filename=\"backups.html\"": 3,
+        "inline; filename=\"documents.html\"": 7,
+        "inline; filename=\"store.html\"": 2,
+        "inline; filename=\"document.html\"": 2,
+        "inline; filename=\"500.html\"": 2,
+        "inline; filename=\"test.html\"": 3,
+        "inline; filename=\"gallery.html\"": 3,
+        "inline; filename=\"monitor.html\"": 1,
+        "inline; filename=\"community.html\"": 3,
+        "inline; filename=\"service.html\"": 1,
+        "inline; filename=\"temp.html\"": 3,
+        "inline; filename=\"database.html\"": 2,
+        "inline; filename=\"contact.html\"": 4,
+        "inline; filename=\"post.html\"": 5,
+        "inline; filename=\"register.html\"": 5,
+        "inline; filename=\"logout.html\"": 3,
+        "inline; filename=\"404.html\"": 6,
+        "inline; filename=\"debug.html\"": 5,
+        "inline; filename=\"photos.html\"": 3,
+        "inline; filename=\"images.html\"": 2,
+        "inline; filename=\"default.html\"": 5,
+        "inline; filename=\"orders.html\"": 2,
+        "inline; filename=\"results.html\"": 2,
+        "inline; filename=\"account.html\"": 2,
+        "inline; filename=\"information.html\"": 1,
+        "inline; filename=\"health.html\"": 4,
+        "inline; filename=\"users.html\"": 6,
+        "inline; filename=\"public.html\"": 7,
+        "inline; filename=\"article.html\"": 3,
+        "inline; filename=\"downloads.html\"": 2,
+        "inline; filename=\"uploads.html\"": 5,
+        "inline; filename=\"administrator.html\"": 5,
+        "inline; filename=\"portal.html\"": 6,
+        "inline; filename=\"legal.html\"": 3,
+        "inline; filename=\"forums.html\"": 4,
+        "inline; filename=\"secret.html\"": 2,
+        "inline; filename=\"tmp.html\"": 3,
+        "inline; filename=\"blog.html\"": 2,
+        "inline; filename=\"help.html\"": 2,
+        "inline; filename=\"media.html\"": 4,
+        "inline; filename=\"old.html\"": 2,
+        "inline; filename=\"upload.html\"": 3,
+        "inline; filename=\"staging.html\"": 2,
+        "inline; filename=\"event.html\"": 2,
+        "inline; filename=\"sitemap.html\"": 2,
+        "inline; filename=\"posts.html\"": 2,
+        "inline; filename=\"download.html\"": 2,
+        "inline; filename=\"archives.html\"": 2,
+        "inline; filename=\"backup.html\"": 2,
+        "inline; filename=\"info.html\"": 3,
+        "inline; filename=\"product.html\"": 3,
+        "inline; filename=\"monitoring.html\"": 3,
+        "inline; filename=\"security.html\"": 2,
+        "inline; filename=\"logs.html\"": 2,
+        "inline; filename=\"order.html\"": 3,
+        "inline; filename=\"image.html\"": 3,
+        "inline; filename=\"documentation.html\"": 4,
+        "inline; filename=\"archive.html\"": 3,
+        "inline; filename=\"signin.html\"": 2,
+        "inline; filename=\"settings.html\"": 4,
+        "inline; filename=\"dev.html\"": 3,
+        "inline; filename=\"web.html\"": 3,
+        "inline; filename=\"checkout.html\"": 1,
+        "inline; filename=\"welcome.html\"": 4,
+        "inline; filename=\"docs.html\"": 1,
+        "inline; filename=\"admin.html\"": 2,
+        "inline; filename=\"about.html\"": 2,
+        "inline; filename=\"status.html\"": 1,
+        "inline; filename=\"shop.html\"": 1,
+        "inline; filename=\"internal.html\"": 2,
+        "inline; filename=\"version.html\"": 5,
+        "inline; filename=\"news.html\"": 2,
+        "inline; filename=\"testing.html\"": 1,
+        "inline; filename=\"services.html\"": 1,
+        "inline; filename=\"server.html\"": 2,
+        "inline; filename=\"forum.html\"": 3,
+        "inline; filename=\"healthcheck.html\"": 2,
+        "inline; filename=\"faq.html\"": 2,
+        "inline; filename=\"demo.html\"": 1,
+        "inline; filename=\"support.html\"": 1,
+        "inline; filename=\"main.html\"": 1,
+        "inline; filename=\"privacy.html\"": 1,
+        "inline; filename=\"search.html\"": 3,
+        "inline; filename=\"log.html\"": 2,
+        "inline; filename=\"signup.html\"": 1,
+        "inline; filename=\"error.html\"": 1,
+        "inline; filename=\"login.html\"": 1,
+        "inline; filename=\"files.html\"": 1,
+        "inline; filename=\"development.html\"": 1
+      }
+    },
+    "content-length": {
+      "occurrences": 1072,
+      "distinct_values": 35,
+      "values": {
+        "330": 765,
+        "470846": 10,
+        "82424": 8,
+        "42126": 14,
+        "66647": 12,
+        "59411": 26,
+        "66531": 8,
+        "78077": 11,
+        "349": 22,
+        "72603": 15,
+        "67150": 10,
+        "64197": 4,
+        "15731": 12,
+        "67786": 8,
+        "386127": 9,
+        "70833": 12,
+        "310941": 13,
+        "466081": 8,
+        "55362": 10,
+        "250960": 16,
+        "94894": 11,
+        "24419": 6,
+        "67692": 13,
+        "7791": 5,
+        "236643": 6,
+        "301339": 8,
+        "90": 1,
+        "16426": 6,
+        "471": 1,
+        "8": 1,
+        "18300": 12,
+        "324779": 5,
+        "312051": 2,
+        "50010": 1,
+        "42397": 1
+      }
+    },
+    "content-type": {
+      "occurrences": 1072,
+      "distinct_values": 6,
+      "values": {
+        "text/html;charset=utf-8": 787,
+        "text/html": 281,
+        "application/ocsp-response": 1,
+        "text/plain": 1,
+        "application/vnd.oasis.opendocument.text": 1,
+        "image/png": 1
+      }
+    },
+    "date": {
+      "occurrences": 1072,
+      "distinct_values": 190,
+      "values": {
+        "Fri, 25 Sep 2026 11:32:30 GMT": 5,
+        "Fri, 25 Sep 2026 11:32:31 GMT": 5,
+        "Fri, 25 Sep 2026 11:32:32 GMT": 5,
+        "Fri, 25 Sep 2026 11:32:33 GMT": 6,
+        "Fri, 25 Sep 2026 11:32:34 GMT": 6,
+        "Fri, 25 Sep 2026 11:32:35 GMT": 6,
+        "Fri, 25 Sep 2026 11:32:36 GMT": 5,
+        "Fri, 25 Sep 2026 11:32:37 GMT": 5,
+        "Fri, 25 Sep 2026 11:32:38 GMT": 9,
+        "Fri, 25 Sep 2026 11:32:39 GMT": 4,
+        "Fri, 25 Sep 2026 11:32:40 GMT": 7,
+        "Fri, 25 Sep 2026 11:32:41 GMT": 4,
+        "Fri, 25 Sep 2026 11:32:42 GMT": 5,
+        "Fri, 25 Sep 2026 11:32:43 GMT": 6,
+        "Fri, 25 Sep 2026 11:32:44 GMT": 4,
+        "Fri, 25 Sep 2026 11:32:45 GMT": 5,
+        "Fri, 25 Sep 2026 11:32:46 GMT": 5,
+        "Fri, 25 Sep 2026 11:32:47 GMT": 7,
+        "Fri, 25 Sep 2026 11:32:48 GMT": 5,
+        "Fri, 25 Sep 2026 11:32:49 GMT": 6,
+        "Fri, 25 Sep 2026 11:32:50 GMT": 5,
+        "Fri, 25 Sep 2026 11:32:51 GMT": 7,
+        "Fri, 25 Sep 2026 11:32:52 GMT": 4,
+        "Fri, 25 Sep 2026 11:32:53 GMT": 8,
+        "Fri, 25 Sep 2026 11:32:54 GMT": 5,
+        "Fri, 25 Sep 2026 11:32:55 GMT": 6,
+        "Fri, 25 Sep 2026 11:32:56 GMT": 4,
+        "Fri, 25 Sep 2026 11:32:57 GMT": 6,
+        "Fri, 25 Sep 2026 11:32:58 GMT": 6,
+        "Fri, 25 Sep 2026 11:32:59 GMT": 6,
+        "Fri, 25 Sep 2026 11:33:00 GMT": 6,
+        "Fri, 25 Sep 2026 11:33:01 GMT": 7,
+        "Fri, 25 Sep 2026 11:33:02 GMT": 4,
+        "Fri, 25 Sep 2026 11:33:03 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:04 GMT": 7,
+        "Fri, 25 Sep 2026 11:33:05 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:06 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:07 GMT": 7,
+        "Fri, 25 Sep 2026 11:33:08 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:09 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:10 GMT": 8,
+        "Fri, 25 Sep 2026 11:33:11 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:12 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:13 GMT": 7,
+        "Fri, 25 Sep 2026 11:33:14 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:15 GMT": 7,
+        "Fri, 25 Sep 2026 11:33:16 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:17 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:18 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:19 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:20 GMT": 7,
+        "Fri, 25 Sep 2026 11:33:21 GMT": 7,
+        "Fri, 25 Sep 2026 11:33:22 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:23 GMT": 8,
+        "Fri, 25 Sep 2026 11:33:24 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:25 GMT": 6,
+        "Fri, 25 Sep 2026 11:33:26 GMT": 7,
+        "Fri, 25 Sep 2026 11:33:27 GMT": 4,
+        "Fri, 25 Sep 2026 11:33:28 GMT": 6,
+        "Fri, 25 Sep 2026 11:33:29 GMT": 6,
+        "Fri, 25 Sep 2026 11:33:30 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:31 GMT": 7,
+        "Fri, 25 Sep 2026 11:33:32 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:33 GMT": 7,
+        "Fri, 25 Sep 2026 11:33:34 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:35 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:36 GMT": 7,
+        "Fri, 25 Sep 2026 11:33:37 GMT": 6,
+        "Fri, 25 Sep 2026 11:33:38 GMT": 6,
+        "Fri, 25 Sep 2026 11:33:39 GMT": 4,
+        "Fri, 25 Sep 2026 11:33:40 GMT": 6,
+        "Fri, 25 Sep 2026 11:33:41 GMT": 4,
+        "Fri, 25 Sep 2026 11:33:42 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:43 GMT": 8,
+        "Fri, 25 Sep 2026 11:33:44 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:45 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:46 GMT": 8,
+        "Fri, 25 Sep 2026 11:33:47 GMT": 7,
+        "Fri, 25 Sep 2026 11:33:48 GMT": 6,
+        "Fri, 25 Sep 2026 11:33:49 GMT": 4,
+        "Fri, 25 Sep 2026 11:33:50 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:51 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:52 GMT": 8,
+        "Fri, 25 Sep 2026 11:33:53 GMT": 6,
+        "Fri, 25 Sep 2026 11:33:54 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:55 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:56 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:57 GMT": 7,
+        "Fri, 25 Sep 2026 11:33:58 GMT": 5,
+        "Fri, 25 Sep 2026 11:33:59 GMT": 4,
+        "Fri, 25 Sep 2026 11:34:00 GMT": 7,
+        "Fri, 25 Sep 2026 11:34:01 GMT": 7,
+        "Fri, 25 Sep 2026 11:34:02 GMT": 4,
+        "Fri, 25 Sep 2026 11:34:03 GMT": 4,
+        "Fri, 25 Sep 2026 11:34:04 GMT": 6,
+        "Fri, 25 Sep 2026 11:34:05 GMT": 6,
+        "Fri, 25 Sep 2026 11:34:06 GMT": 6,
+        "Fri, 25 Sep 2026 11:34:07 GMT": 7,
+        "Fri, 25 Sep 2026 11:34:08 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:09 GMT": 8,
+        "Fri, 25 Sep 2026 11:34:10 GMT": 6,
+        "Fri, 25 Sep 2026 11:34:11 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:12 GMT": 6,
+        "Fri, 25 Sep 2026 11:34:13 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:14 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:15 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:16 GMT": 6,
+        "Fri, 25 Sep 2026 11:34:17 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:18 GMT": 6,
+        "Fri, 25 Sep 2026 11:34:19 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:20 GMT": 7,
+        "Fri, 25 Sep 2026 11:34:21 GMT": 6,
+        "Fri, 25 Sep 2026 11:34:22 GMT": 6,
+        "Fri, 25 Sep 2026 11:34:23 GMT": 8,
+        "Fri, 25 Sep 2026 11:34:24 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:25 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:26 GMT": 7,
+        "Fri, 25 Sep 2026 11:34:27 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:28 GMT": 4,
+        "Fri, 25 Sep 2026 11:34:29 GMT": 4,
+        "Fri, 25 Sep 2026 11:34:30 GMT": 8,
+        "Fri, 25 Sep 2026 11:34:31 GMT": 6,
+        "Fri, 25 Sep 2026 11:34:32 GMT": 4,
+        "Fri, 25 Sep 2026 11:34:33 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:34 GMT": 7,
+        "Fri, 25 Sep 2026 11:34:35 GMT": 6,
+        "Fri, 25 Sep 2026 11:34:36 GMT": 6,
+        "Fri, 25 Sep 2026 11:34:37 GMT": 4,
+        "Fri, 25 Sep 2026 11:34:38 GMT": 4,
+        "Fri, 25 Sep 2026 11:34:39 GMT": 6,
+        "Fri, 25 Sep 2026 11:34:40 GMT": 6,
+        "Fri, 25 Sep 2026 11:34:41 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:42 GMT": 8,
+        "Fri, 25 Sep 2026 11:34:43 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:44 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:45 GMT": 6,
+        "Fri, 25 Sep 2026 11:34:46 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:47 GMT": 7,
+        "Fri, 25 Sep 2026 11:34:48 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:49 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:50 GMT": 7,
+        "Fri, 25 Sep 2026 11:34:51 GMT": 6,
+        "Fri, 25 Sep 2026 11:34:52 GMT": 4,
+        "Fri, 25 Sep 2026 11:34:53 GMT": 7,
+        "Fri, 25 Sep 2026 11:34:54 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:55 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:56 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:57 GMT": 5,
+        "Fri, 25 Sep 2026 11:34:58 GMT": 4,
+        "Fri, 25 Sep 2026 11:34:59 GMT": 5,
+        "Fri, 25 Sep 2026 11:35:00 GMT": 7,
+        "Fri, 25 Sep 2026 11:35:01 GMT": 5,
+        "Fri, 25 Sep 2026 11:35:02 GMT": 5,
+        "Fri, 25 Sep 2026 11:35:03 GMT": 6,
+        "Fri, 25 Sep 2026 11:35:04 GMT": 7,
+        "Fri, 25 Sep 2026 11:35:05 GMT": 4,
+        "Fri, 25 Sep 2026 11:35:06 GMT": 5,
+        "Fri, 25 Sep 2026 11:35:07 GMT": 5,
+        "Fri, 25 Sep 2026 11:35:08 GMT": 6,
+        "Fri, 25 Sep 2026 11:35:09 GMT": 8,
+        "Fri, 25 Sep 2026 11:35:10 GMT": 8,
+        "Fri, 25 Sep 2026 11:35:11 GMT": 6,
+        "Fri, 25 Sep 2026 11:35:12 GMT": 6,
+        "Fri, 25 Sep 2026 11:35:13 GMT": 5,
+        "Fri, 25 Sep 2026 11:35:14 GMT": 7,
+        "Fri, 25 Sep 2026 11:35:15 GMT": 5,
+        "Fri, 25 Sep 2026 11:35:16 GMT": 5,
+        "Fri, 25 Sep 2026 11:35:17 GMT": 6,
+        "Fri, 25 Sep 2026 11:35:18 GMT": 6,
+        "Fri, 25 Sep 2026 11:35:19 GMT": 6,
+        "Fri, 25 Sep 2026 11:35:20 GMT": 5,
+        "Fri, 25 Sep 2026 11:35:21 GMT": 7,
+        "Fri, 25 Sep 2026 11:35:22 GMT": 5,
+        "Fri, 25 Sep 2026 11:35:23 GMT": 5,
+        "Fri, 25 Sep 2026 11:35:24 GMT": 6,
+        "Fri, 25 Sep 2026 11:35:25 GMT": 6,
+        "Fri, 25 Sep 2026 11:35:26 GMT": 5,
+        "Fri, 25 Sep 2026 11:35:27 GMT": 6,
+        "Fri, 25 Sep 2026 11:35:28 GMT": 7,
+        "Fri, 25 Sep 2026 11:35:29 GMT": 6,
+        "Fri, 25 Sep 2026 11:35:30 GMT": 7,
+        "Fri, 25 Sep 2026 11:35:31 GMT": 4,
+        "Fri, 25 Sep 2026 11:35:32 GMT": 7,
+        "Fri, 25 Sep 2026 11:35:33 GMT": 6,
+        "Fri, 25 Sep 2026 11:35:34 GMT": 6,
+        "Fri, 25 Sep 2026 11:35:35 GMT": 5,
+        "Fri, 25 Sep 2026 11:35:36 GMT": 5,
+        "Fri, 25 Sep 2026 11:35:37 GMT": 6,
+        "Fri, 25 Sep 2026 11:36:02 GMT": 1,
+        "Fri, 25 Sep 2026 11:36:09 GMT": 1
+      }
+    },
+    "last-modified": {
+      "occurrences": 2,
+      "distinct_values": 2,
+      "values": {
+        "Tue, 22 Sep 2026 09:53:46 GMT": 1,
+        "Thu, 24 Sep 2026 08:00:26 GMT": 1
+      }
+    },
+    "retry-after": {
+      "occurrences": 2,
+      "distinct_values": 1,
+      "values": {
+        "0": 2
+      }
+    },
+    "server": {
+      "occurrences": 1071,
+      "distinct_values": 3,
+      "values": {
+        "BaseHTTP/0.6 Python/3.12.3": 1067,
+        "Varnish": 2,
+        "SimpleHTTP/0.6 Python/3.12.3": 2
+      }
+    },
+    "via": {
+      "occurrences": 2,
+      "distinct_values": 1,
+      "values": {
+        "1.1 varnish": 2
+      }
+    },
+    "x-cache": {
+      "occurrences": 2,
+      "distinct_values": 1,
+      "values": {
+        "MISS": 2
+      }
+    },
+    "x-cache-hits": {
+      "occurrences": 2,
+      "distinct_values": 1,
+      "values": {
+        "0": 2
+      }
+    },
+    "x-content-type-options": {
+      "occurrences": 1,
+      "distinct_values": 1,
+      "values": {
+        "nosniff": 1
+      }
+    },
+    "x-dc-pop": {
+      "occurrences": 1,
+      "distinct_values": 1,
+      "values": {
+        "sng-003": 1
+      }
+    },
+    "x-frame-options": {
+      "occurrences": 1,
+      "distinct_values": 1,
+      "values": {
+        "SAMEORIGIN": 1
+      }
+    },
+    "x-networkmanager-status": {
+      "occurrences": 1,
+      "distinct_values": 1,
+      "values": {
+        "online": 1
+      }
+    },
+    "x-served-by": {
+      "occurrences": 2,
+      "distinct_values": 2,
+      "values": {
+        "cache-bma-essb1270072-BMA": 1,
+        "cache-bma-essb1270066-BMA": 1
+      }
+    },
+    "x-timer": {
+      "occurrences": 2,
+      "distinct_values": 2,
+      "values": {
+        "S1790336001.223958,VS0,VE0": 1,
+        "S1790336003.433731,VS0,VE0": 1
+      }
+    },
+    "x-xss-protection": {
+      "occurrences": 1,
+      "distinct_values": 1,
+      "values": {
+        "1; mode=block": 1
+      }
+    }
+  }
+}

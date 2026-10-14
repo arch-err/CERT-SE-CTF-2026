@@ -1,0 +1,25 @@
+{
+  "frames": [
+    18948,
+    18949
+  ],
+  "ntp_payload_bytes_each": 48,
+  "client": "192.168.122.48",
+  "server": "185.125.190.58",
+  "version": 4,
+  "request_mode": 3,
+  "reply_mode": 4,
+  "reply_stratum": 2,
+  "capture_round_trip_ms": 67.74725900001499,
+  "request_token_hex": "06ab8ba03d0677fb",
+  "response_origin_matches_request": true,
+  "root_delay_ms": 6.500244140625,
+  "root_dispersion_ms": 0.2288818359375,
+  "precision_ns": 29.802322387695312,
+  "extensions_or_extra_payload_bytes": 0,
+  "interpretation": "Consistent with ordinary NTPv4 exchange. Odd client timestamp can be a randomized request nonce, as used by systemd-timesyncd; implementation not proven from packet alone.",
+  "references": [
+    "https://www.rfc-editor.org/rfc/rfc5905",
+    "https://github.com/systemd/systemd/blob/main/src/timesync/timesyncd-manager.c"
+  ]
+}

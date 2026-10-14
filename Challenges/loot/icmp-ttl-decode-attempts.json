@@ -1,0 +1,272 @@
+[
+  {
+    "mapping": "64=0,128=1",
+    "width": 8,
+    "offset": 0,
+    "hex": "2ad9cb962201001d27d440",
+    "ascii_escaped": "b'*\\xd9\\xcb\\x96\"\\x01\\x00\\x1d\\'\\xd4@'",
+    "trailing_bits": "1000111",
+    "printable_bytes": 4
+  },
+  {
+    "mapping": "64=0,128=1",
+    "width": 8,
+    "offset": 1,
+    "hex": "55b3972c4402003a4fa881",
+    "ascii_escaped": "b'U\\xb3\\x97,D\\x02\\x00:O\\xa8\\x81'",
+    "trailing_bits": "000111",
+    "printable_bytes": 5
+  },
+  {
+    "mapping": "64=0,128=1",
+    "width": 8,
+    "offset": 2,
+    "hex": "ab672e58880400749f5102",
+    "ascii_escaped": "b'\\xabg.X\\x88\\x04\\x00t\\x9fQ\\x02'",
+    "trailing_bits": "00111",
+    "printable_bytes": 5
+  },
+  {
+    "mapping": "64=0,128=1",
+    "width": 8,
+    "offset": 3,
+    "hex": "56ce5cb1100800e93ea204",
+    "ascii_escaped": "b'V\\xce\\\\\\xb1\\x10\\x08\\x00\\xe9>\\xa2\\x04'",
+    "trailing_bits": "0111",
+    "printable_bytes": 3
+  },
+  {
+    "mapping": "64=0,128=1",
+    "width": 8,
+    "offset": 4,
+    "hex": "ad9cb962201001d27d4408",
+    "ascii_escaped": "b'\\xad\\x9c\\xb9b \\x10\\x01\\xd2}D\\x08'",
+    "trailing_bits": "111",
+    "printable_bytes": 4
+  },
+  {
+    "mapping": "64=0,128=1",
+    "width": 8,
+    "offset": 5,
+    "hex": "5b3972c4402003a4fa8811",
+    "ascii_escaped": "b'[9r\\xc4@ \\x03\\xa4\\xfa\\x88\\x11'",
+    "trailing_bits": "11",
+    "printable_bytes": 5
+  },
+  {
+    "mapping": "64=0,128=1",
+    "width": 8,
+    "offset": 6,
+    "hex": "b672e58880400749f51023",
+    "ascii_escaped": "b'\\xb6r\\xe5\\x88\\x80@\\x07I\\xf5\\x10#'",
+    "trailing_bits": "1",
+    "printable_bytes": 4
+  },
+  {
+    "mapping": "64=0,128=1",
+    "width": 8,
+    "offset": 7,
+    "hex": "6ce5cb1100800e93ea2047",
+    "ascii_escaped": "b'l\\xe5\\xcb\\x11\\x00\\x80\\x0e\\x93\\xea G'",
+    "trailing_bits": "",
+    "printable_bytes": 3
+  },
+  {
+    "mapping": "64=0,128=1",
+    "width": 7,
+    "offset": 0,
+    "hex": "15363939310802000e497a4404",
+    "ascii_escaped": "b'\\x156991\\x08\\x02\\x00\\x0eIzD\\x04'",
+    "trailing_bits": "0111",
+    "printable_bytes": 7
+  },
+  {
+    "mapping": "64=0,128=1",
+    "width": 7,
+    "offset": 1,
+    "hex": "2a6c7272621004001d13750808",
+    "ascii_escaped": "b'*lrrb\\x10\\x04\\x00\\x1d\\x13u\\x08\\x08'",
+    "trailing_bits": "111",
+    "printable_bytes": 6
+  },
+  {
+    "mapping": "64=0,128=1",
+    "width": 7,
+    "offset": 2,
+    "hex": "55596565442008003a276a1011",
+    "ascii_escaped": "b\"UYeeD \\x08\\x00:'j\\x10\\x11\"",
+    "trailing_bits": "11",
+    "printable_bytes": 9
+  },
+  {
+    "mapping": "64=0,128=1",
+    "width": 7,
+    "offset": 3,
+    "hex": "2b334b4b08401000744f542023",
+    "ascii_escaped": "b'+3KK\\x08@\\x10\\x00tOT #'",
+    "trailing_bits": "1",
+    "printable_bytes": 10
+  },
+  {
+    "mapping": "64=0,128=1",
+    "width": 7,
+    "offset": 4,
+    "hex": "5667171611002001691f284047",
+    "ascii_escaped": "b'Vg\\x17\\x16\\x11\\x00 \\x01i\\x1f(@G'",
+    "trailing_bits": "",
+    "printable_bytes": 7
+  },
+  {
+    "mapping": "64=0,128=1",
+    "width": 7,
+    "offset": 5,
+    "hex": "2d4e2e2c22004003523e5101",
+    "ascii_escaped": "b'-N.,\"\\x00@\\x03R>Q\\x01'",
+    "trailing_bits": "000111",
+    "printable_bytes": 9
+  },
+  {
+    "mapping": "64=0,128=1",
+    "width": 7,
+    "offset": 6,
+    "hex": "5b1c5c5844010007247d2202",
+    "ascii_escaped": "b'[\\x1c\\\\XD\\x01\\x00\\x07$}\"\\x02'",
+    "trailing_bits": "00111",
+    "printable_bytes": 7
+  },
+  {
+    "mapping": "64=1,128=0",
+    "width": 8,
+    "offset": 0,
+    "hex": "d5263469ddfeffe2d82bbf",
+    "ascii_escaped": "b'\\xd5&4i\\xdd\\xfe\\xff\\xe2\\xd8+\\xbf'",
+    "trailing_bits": "0111000",
+    "printable_bytes": 4
+  },
+  {
+    "mapping": "64=1,128=0",
+    "width": 8,
+    "offset": 1,
+    "hex": "aa4c68d3bbfdffc5b0577e",
+    "ascii_escaped": "b'\\xaaLh\\xd3\\xbb\\xfd\\xff\\xc5\\xb0W~'",
+    "trailing_bits": "111000",
+    "printable_bytes": 4
+  },
+  {
+    "mapping": "64=1,128=0",
+    "width": 8,
+    "offset": 2,
+    "hex": "5498d1a777fbff8b60aefd",
+    "ascii_escaped": "b'T\\x98\\xd1\\xa7w\\xfb\\xff\\x8b`\\xae\\xfd'",
+    "trailing_bits": "11000",
+    "printable_bytes": 3
+  },
+  {
+    "mapping": "64=1,128=0",
+    "width": 8,
+    "offset": 3,
+    "hex": "a931a34eeff7ff16c15dfb",
+    "ascii_escaped": "b'\\xa91\\xa3N\\xef\\xf7\\xff\\x16\\xc1]\\xfb'",
+    "trailing_bits": "1000",
+    "printable_bytes": 3
+  },
+  {
+    "mapping": "64=1,128=0",
+    "width": 8,
+    "offset": 4,
+    "hex": "5263469ddfeffe2d82bbf7",
+    "ascii_escaped": "b'RcF\\x9d\\xdf\\xef\\xfe-\\x82\\xbb\\xf7'",
+    "trailing_bits": "000",
+    "printable_bytes": 4
+  },
+  {
+    "mapping": "64=1,128=0",
+    "width": 8,
+    "offset": 5,
+    "hex": "a4c68d3bbfdffc5b0577ee",
+    "ascii_escaped": "b'\\xa4\\xc6\\x8d;\\xbf\\xdf\\xfc[\\x05w\\xee'",
+    "trailing_bits": "00",
+    "printable_bytes": 3
+  },
+  {
+    "mapping": "64=1,128=0",
+    "width": 8,
+    "offset": 6,
+    "hex": "498d1a777fbff8b60aefdc",
+    "ascii_escaped": "b'I\\x8d\\x1aw\\x7f\\xbf\\xf8\\xb6\\n\\xef\\xdc'",
+    "trailing_bits": "0",
+    "printable_bytes": 2
+  },
+  {
+    "mapping": "64=1,128=0",
+    "width": 8,
+    "offset": 7,
+    "hex": "931a34eeff7ff16c15dfb8",
+    "ascii_escaped": "b'\\x93\\x1a4\\xee\\xff\\x7f\\xf1l\\x15\\xdf\\xb8'",
+    "trailing_bits": "",
+    "printable_bytes": 2
+  },
+  {
+    "mapping": "64=1,128=0",
+    "width": 7,
+    "offset": 0,
+    "hex": "6a4946464e777d7f7136053b7b",
+    "ascii_escaped": "b'jIFFNw}\\x7fq6\\x05;{'",
+    "trailing_bits": "1000",
+    "printable_bytes": 11
+  },
+  {
+    "mapping": "64=1,128=0",
+    "width": 7,
+    "offset": 1,
+    "hex": "55130d0d1d6f7b7f626c0a7777",
+    "ascii_escaped": "b'U\\x13\\r\\r\\x1do{\\x7fbl\\nww'",
+    "trailing_bits": "000",
+    "printable_bytes": 7
+  },
+  {
+    "mapping": "64=1,128=0",
+    "width": 7,
+    "offset": 2,
+    "hex": "2a261a1a3b5f777f4558156f6e",
+    "ascii_escaped": "b'*&\\x1a\\x1a;_w\\x7fEX\\x15on'",
+    "trailing_bits": "00",
+    "printable_bytes": 9
+  },
+  {
+    "mapping": "64=1,128=0",
+    "width": 7,
+    "offset": 3,
+    "hex": "544c3434773f6f7f0b302b5f5c",
+    "ascii_escaped": "b'TL44w?o\\x7f\\x0b0+_\\\\'",
+    "trailing_bits": "0",
+    "printable_bytes": 11
+  },
+  {
+    "mapping": "64=1,128=0",
+    "width": 7,
+    "offset": 4,
+    "hex": "291868696e7f5f7e1660573f38",
+    "ascii_escaped": "b')\\x18hin\\x7f_~\\x16`W?8'",
+    "trailing_bits": "",
+    "printable_bytes": 10
+  },
+  {
+    "mapping": "64=1,128=0",
+    "width": 7,
+    "offset": 5,
+    "hex": "523151535d7f3f7c2d412e7e",
+    "ascii_escaped": "b'R1QS]\\x7f?|-A.~'",
+    "trailing_bits": "111000",
+    "printable_bytes": 11
+  },
+  {
+    "mapping": "64=1,128=0",
+    "width": 7,
+    "offset": 6,
+    "hex": "246323273b7e7f785b025d7d",
+    "ascii_escaped": "b\"$c#';~\\x7fx[\\x02]}\"",
+    "trailing_bits": "11000",
+    "printable_bytes": 10
+  }
+]

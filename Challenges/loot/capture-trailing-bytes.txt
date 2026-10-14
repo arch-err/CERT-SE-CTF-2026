@@ -1,0 +1,1 @@
+ctf[first_flag]

@@ -1,0 +1,20 @@
+{
+  "scope": "Every 1073 HTTP request and 1073 decoded HTTP response; headers, URLs, methods and body fingerprints. No hidden-content decoding or external requests.",
+  "cookie_headers": 0,
+  "set_cookie_headers": 0,
+  "authorization_headers": 0,
+  "local_requests": 1069,
+  "python_requests_user_agent_count": 1067,
+  "path_lead": {
+    "single_character_directory_requests": 371,
+    "counts_by_response_status": {
+      "404": 256,
+      "200": 93,
+      "403": 22
+    },
+    "note": "Single-character path prefixes, including punctuation, are a concrete lead. Response status can distinguish subsets; characters have not been concatenated or decoded in this review."
+  },
+  "known_body_inventory": "inventory.json",
+  "request_headers": "headers.json",
+  "full_message_index": "messages.json"
+}

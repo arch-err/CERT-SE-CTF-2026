@@ -1,0 +1,9 @@
+{
+  "capture": "../CERT-SE_CTF_2026.repaired.pcapng",
+  "url": "http://192.168.122.1/testing/secrets.html",
+  "tcp_stream": 19,
+  "request_frame": 380,
+  "response_reassembled_frame": 392,
+  "status": 200,
+  "body_bytes": 42126
+}

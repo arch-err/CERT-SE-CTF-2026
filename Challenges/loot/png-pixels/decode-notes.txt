@@ -1,0 +1,4 @@
+Sort the 208 nonwhite pixels by alpha ascending (1 through 208).
+RGB (254,255,255) = 1; RGB (255,255,254) = 0.
+Read bits MSB-first in groups of eight as ASCII.
+Output: ctf[hidden_in_plain_sight]

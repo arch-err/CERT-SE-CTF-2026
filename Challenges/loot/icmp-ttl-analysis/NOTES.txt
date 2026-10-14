@@ -1,0 +1,7 @@
+95 ICMP echo requests, chronological order.
+TTL 64 = Morse dot; TTL 128 = Morse dash.
+Request gaps are about 0.202–0.205 seconds within a letter and 6.002–6.005 seconds between letters. Split at gaps >1 second.
+Morse letters: INKEMW2UJFGUSTSHL5EVGX2GKVHF2
+Base32 decode (add three = padding characters): CTF[TIMING_IS_FUN]
+
+Direct binary TTL-to-ASCII attempts failed because symbols are Morse, with timing providing letter boundaries. No addresses contacted; no capture modification.

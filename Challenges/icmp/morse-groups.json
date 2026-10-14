@@ -1,0 +1,280 @@
+{
+  "mapping": {
+    "64": ".",
+    "128": "-"
+  },
+  "letter_gap_threshold_seconds": 1,
+  "groups": [
+    {
+      "frames": [
+        1127,
+        1139
+      ],
+      "morse": "..",
+      "character": "I"
+    },
+    {
+      "frames": [
+        1610,
+        1622
+      ],
+      "morse": "-.",
+      "character": "N"
+    },
+    {
+      "frames": [
+        2147,
+        2159,
+        2182
+      ],
+      "morse": "-.-",
+      "character": "K"
+    },
+    {
+      "frames": [
+        2638
+      ],
+      "morse": ".",
+      "character": "E"
+    },
+    {
+      "frames": [
+        3136,
+        3167
+      ],
+      "morse": "--",
+      "character": "M"
+    },
+    {
+      "frames": [
+        3717,
+        3764,
+        3766
+      ],
+      "morse": ".--",
+      "character": "W"
+    },
+    {
+      "frames": [
+        4289,
+        4301,
+        4313,
+        4340,
+        4396
+      ],
+      "morse": "..---",
+      "character": "2"
+    },
+    {
+      "frames": [
+        7419,
+        7431,
+        7463
+      ],
+      "morse": "..-",
+      "character": "U"
+    },
+    {
+      "frames": [
+        8385,
+        8397,
+        8409,
+        8422
+      ],
+      "morse": ".---",
+      "character": "J"
+    },
+    {
+      "frames": [
+        9065,
+        9077,
+        9089,
+        9091
+      ],
+      "morse": "..-.",
+      "character": "F"
+    },
+    {
+      "frames": [
+        9563,
+        9575,
+        9600
+      ],
+      "morse": "--.",
+      "character": "G"
+    },
+    {
+      "frames": [
+        10117,
+        10139,
+        10151
+      ],
+      "morse": "..-",
+      "character": "U"
+    },
+    {
+      "frames": [
+        10559,
+        10571,
+        10583
+      ],
+      "morse": "...",
+      "character": "S"
+    },
+    {
+      "frames": [
+        11070
+      ],
+      "morse": "-",
+      "character": "T"
+    },
+    {
+      "frames": [
+        11631,
+        11648,
+        11660
+      ],
+      "morse": "...",
+      "character": "S"
+    },
+    {
+      "frames": [
+        12209,
+        12221,
+        12233,
+        12279
+      ],
+      "morse": "....",
+      "character": "H"
+    },
+    {
+      "frames": [
+        12891,
+        12926,
+        12938,
+        12972
+      ],
+      "morse": ".-..",
+      "character": "L"
+    },
+    {
+      "frames": [
+        13397,
+        13450,
+        13462,
+        13484,
+        13496
+      ],
+      "morse": ".....",
+      "character": "5"
+    },
+    {
+      "frames": [
+        13986
+      ],
+      "morse": ".",
+      "character": "E"
+    },
+    {
+      "frames": [
+        14478,
+        14490,
+        14502,
+        14514
+      ],
+      "morse": "...-",
+      "character": "V"
+    },
+    {
+      "frames": [
+        14944,
+        14969,
+        14996
+      ],
+      "morse": "--.",
+      "character": "G"
+    },
+    {
+      "frames": [
+        15446,
+        15458,
+        15470,
+        15482
+      ],
+      "morse": "-..-",
+      "character": "X"
+    },
+    {
+      "frames": [
+        15901,
+        15913,
+        15925,
+        15972,
+        15984
+      ],
+      "morse": "..---",
+      "character": "2"
+    },
+    {
+      "frames": [
+        16494,
+        16527,
+        16539
+      ],
+      "morse": "--.",
+      "character": "G"
+    },
+    {
+      "frames": [
+        17159,
+        17182,
+        17201
+      ],
+      "morse": "-.-",
+      "character": "K"
+    },
+    {
+      "frames": [
+        17689,
+        17701,
+        17725,
+        17737
+      ],
+      "morse": "...-",
+      "character": "V"
+    },
+    {
+      "frames": [
+        18247,
+        18274,
+        18286,
+        18308
+      ],
+      "morse": "....",
+      "character": "H"
+    },
+    {
+      "frames": [
+        18773,
+        18785,
+        18832,
+        18834
+      ],
+      "morse": "..-.",
+      "character": "F"
+    },
+    {
+      "frames": [
+        18938,
+        18940,
+        18942,
+        18944,
+        18946
+      ],
+      "morse": "..---",
+      "character": "2"
+    }
+  ],
+  "base32": "INKEMW2UJFGUSTSHL5EVGX2GKVHF2",
+  "decoded": "CTF[TIMING_IS_FUN]"
+}

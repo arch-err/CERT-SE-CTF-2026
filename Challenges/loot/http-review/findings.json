@@ -1,0 +1,39 @@
+{
+  "scope": "Structural review of all 1069 exported plaintext HTTP bodies, including copies moved to duplicates/. No flag search, hidden-data decoding, external requests or script execution.",
+  "text_objects": 1069,
+  "unique_bodies": 32,
+  "duplicate_404_bodies": 765,
+  "duplicate_403_bodies": 22,
+  "findings": [
+    {
+      "observation": "Whitespace character Wikipedia page appears 10 times.",
+      "representative": "../plaintext/404(8).html",
+      "interpretation": "Possible hint for the already solved ODT whitespace encoding; not proof of another flag."
+    },
+    {
+      "observation": "testing/secrets.html is identical to the FIRST homepage body, which occurs 14 times.",
+      "interpretation": "Interesting URL name does not indicate unique body content."
+    },
+    {
+      "observation": "Many unrelated local paths serve byte-identical copies of CERT-SE, FRA, NCSC, ENISA, Wikipedia and Riksdag pages.",
+      "interpretation": "Consistent with generated cover traffic."
+    },
+    {
+      "observation": "Comments largely contain navigation templates, CMS component labels or Wikipedia parser diagnostics. Hidden elements largely correspond to menus, cookie widgets, reader controls or collapsed UI.",
+      "interpretation": "No specific hidden-content lead established by this structural review; not an exhaustive content clearance."
+    },
+    {
+      "observation": "The two Riksdag bodies contain large __NEXT_DATA__ JSON script blocks.",
+      "interpretation": "Recognizable Next.js page state; not decoded or executed."
+    },
+    {
+      "observation": "1072 GET requests and one POST, to the OCSP responder. Sixteen local URLs use query paths of the form /?/name.html.",
+      "interpretation": "No non-OCSP upload request in the extracted request inventory."
+    }
+  ],
+  "limitations": [
+    "No comparison against live public originals.",
+    "No claim that HTML, scripts, headers, cookies or timing are free of hidden data.",
+    "ODT and PNG were both HTTP transfers and already produced flags; no additional HTML-body flag established."
+  ]
+}
