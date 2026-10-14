@@ -14,18 +14,28 @@ Send as many flags as you find, together with descriptions of how you solved the
 
 # Challenges
 
-**Flags:** (0/6)
+**Flags:** (2/6)
 
-## Unknown 01
-Challenge not identified yet. Working files: [Challenges/unknown_01/](./Challenges/unknown_01/).
+## first_flag
 
-***Flag: `not found`***
+1. Run `strings` on the capture and search for the flag prefix:
+   ```sh
+   cd Challenges
+   strings CERT-SE_CTF_2026.pcapng | rg 'ctf\['
+   ```
+2. The flag is present in plaintext in the output.
+
+***Flag: `ctf[first_flag]`***
 
 
-## Unknown 02
-Challenge not identified yet. Working files: [Challenges/unknown_02/](./Challenges/unknown_02/).
+## simple_dns_exfil
 
-***Flag: `not found`***
+1. Inspect DNS traffic in Wireshark. Packet 2380 is an A query from `192.168.122.48` to `192.168.122.1` for `Y3RmW3NpbXBsZV9kbnNfZXhmaWxd.flag.com`. Packet 2381 replies with NXDOMAIN.
+2. Base64 decode the encoded part of the domain name, `Y3RmW3NpbXBsZV9kbnNfZXhmaWxd`.
+
+[Wireshark and CyberChef screenshot](./Challenges/simple_dns_exfil/solve.png)
+
+***Flag: `ctf[simple_dns_exfil]`***
 
 
 ## Unknown 03
