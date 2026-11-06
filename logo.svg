@@ -12,10 +12,6 @@
         fill: none;
       }
 
-      .cls-3 {
-        fill: #2b3654;
-      }
-
       .cls-4 {
         fill: #fff;
       }
@@ -42,8 +38,6 @@
       <rect class="cls-2" x="180.76" y="14.52" width="110.37" height="37.55"/>
     </clipPath>
   </defs>
-  <rect x="-12" y="-12" width="324" height="83" fill="#2b3654"/>
-  <rect class="cls-3" x="-5.36" y="-5.53" width="312.12" height="70.64"/>
   <g>
     <polygon class="cls-4" points="80.92 11.41 80.92 28.8 78.57 28.8 68.88 16.26 68.88 28.8 66.15 28.8 66.15 11.41 68.5 11.41 78.19 23.96 78.19 11.41 80.92 11.41"/>
     <g class="cls-7">

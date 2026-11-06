@@ -1,4 +1,4 @@
-<img src="logo.svg" alt="NCSC / CERT-SE" width="750">
+<img src="logo.svg" alt="NCSC / CERT-SE" width="100%">
 
 # CERT-SE CTF 2026
 - https://www.cert.se/2026/10/antar-du-var-utmaning.html
